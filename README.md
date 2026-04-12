@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .estate one-word domains from Uniq
 
 **Public extract:** 9,099 rows · **Live catalog:** 9,099 domains
 
-**Last updated:** 2026-04-11  
+**Last updated:** 2026-04-12  
 **Canonical page:** `https://unique.domains/domains/tld/estate`  
 **Best for:** founders, investors, studios
 
@@ -70,10 +70,10 @@ print(df.head())
 | and.estate        | available | $14.99    | —             | 84             | 48     | 3      | name.com                                    |
 | easy.estate       | resell    | —         | —             | 128            | 68     | 4      | Spaceship, Inc.                             |
 | travel.estate     | premium   | $520      | $520          | 115            | 48     | 6      | namecheap                                   |
-| genius.estate     | available | $14.99    | $50.99        | 98             | 47     | 6      | name.com                                    |
+| clear.estate      | available | $14.99    | $50.99        | 90             | 47     | 5      | name.com                                    |
 | prompt.estate     | resell    | —         | —             | 114            | 68     | 6      | Sav.com, LLC - 37                           |
 | trade.estate      | premium   | $85.80    | $85.80        | 116            | 42     | 5      | namecheap                                   |
-| clear.estate      | available | $14.99    | $50.99        | 90             | 47     | 5      | name.com                                    |
+| genius.estate     | available | $14.99    | $50.99        | 98             | 45     | 6      | name.com                                    |
 | domain.estate     | resell    | —         | —             | 80             | 64     | 6      | Sav.com, LLC                                |
 | aaa.estate        | premium   | $128.70   | $128.70       | 70             | 42     | 3      | namecheap                                   |
 | event.estate      | available | $52.98    | —             | 96             | 44     | 5      | namecheap                                   |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ESTATE One-Word Domains*. Version 2026-04-11. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ESTATE One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
