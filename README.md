@@ -80,10 +80,10 @@ print(df.head())
 | home.estate       | resell    | —         | —             | 100            | 62     | 4      | Porkbun LLC                                 |
 | sports.estate     | premium   | $128.70   | $128.70       | 110            | 37     | 6      | namecheap                                   |
 | strategy.estate   | available | $52.98    | —             | 74             | 43     | 8      | namecheap                                   |
-| free.estate       | resell    | —         | —             | 88             | 59     | 4      | Spaceship, Inc.                             |
+| the.estate        | resell    | —         | —             | 98             | 58     | 3      | GoDaddy Online Services Cayman Islands Ltd. |
 | technology.estate | premium   | $128.70   | $128.70       | 88             | 35     | 10     | namecheap                                   |
 | cosmos.estate     | available | $14.99    | —             | 74             | 42     | 6      | name.com                                    |
-| the.estate        | resell    | —         | —             | 98             | 58     | 3      | GoDaddy Online Services Cayman Islands Ltd. |
+| dot.estate        | resell    | —         | —             | 74             | 58     | 3      | Spaceship, Inc.                             |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
