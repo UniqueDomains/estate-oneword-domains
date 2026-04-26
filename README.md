@@ -1,22 +1,22 @@
-# Available .ESTATE One-Word Domains (9,099)
+# Available .ESTATE One-Word Domains (11,442)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C099%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C099%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C442%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .estate one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .estate one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **11,442 domains** on the canonical page below.
 
-**Public extract:** 9,099 rows · **Live catalog:** 9,099 domains
+**Public extract:** 1,000 rows · **Live catalog:** 11,442 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/estate`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .ESTATE one-word domai
 
 ### Files
 
-- `estate.csv` — public CSV extract (9,099 rows)
-- `estate.json` — public JSON extract (9,099 rows)
+- `estate.csv` — public CSV extract (1,000 rows)
+- `estate.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                   |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------- |
-| silver.estate     | available | $52.98    | —             | 56             | 99     | 6      | namecheap                                   |
-| get.estate        | resell    | —         | —             | 88             | 69     | 3      | Spaceship, Inc.                             |
-| music.estate      | premium   | $123.75   | —             | 84             | 54     | 5      | name.com                                    |
-| and.estate        | available | $14.99    | —             | 84             | 48     | 3      | name.com                                    |
-| easy.estate       | resell    | —         | —             | 128            | 68     | 4      | Spaceship, Inc.                             |
-| travel.estate     | premium   | $520      | $520          | 115            | 48     | 6      | namecheap                                   |
-| clear.estate      | available | $14.99    | $50.99        | 90             | 47     | 5      | name.com                                    |
-| prompt.estate     | resell    | —         | —             | 114            | 68     | 6      | Sav.com, LLC - 37                           |
-| trade.estate      | premium   | $85.80    | $85.80        | 116            | 42     | 5      | namecheap                                   |
-| genius.estate     | available | $14.99    | $50.99        | 98             | 45     | 6      | name.com                                    |
-| domain.estate     | resell    | —         | —             | 80             | 64     | 6      | Sav.com, LLC                                |
-| aaa.estate        | premium   | $128.70   | $128.70       | 70             | 42     | 3      | namecheap                                   |
-| event.estate      | available | $52.98    | —             | 96             | 44     | 5      | namecheap                                   |
-| home.estate       | resell    | —         | —             | 100            | 62     | 4      | Porkbun LLC                                 |
-| sports.estate     | premium   | $128.70   | $128.70       | 110            | 37     | 6      | namecheap                                   |
-| strategy.estate   | available | $52.98    | —             | 74             | 43     | 8      | namecheap                                   |
-| the.estate        | resell    | —         | —             | 98             | 58     | 3      | GoDaddy Online Services Cayman Islands Ltd. |
-| technology.estate | premium   | $128.70   | $128.70       | 88             | 35     | 10     | namecheap                                   |
-| cosmos.estate     | available | $14.99    | —             | 74             | 42     | 6      | name.com                                    |
-| dot.estate        | resell    | —         | —             | 74             | 58     | 3      | Spaceship, Inc.                             |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
+| skills.estate     | available | $14.99    | —             | 58             | 47     | 6      | name.com          |
+| robots.estate     | resell    | —         | —             | 62             | 47     | 6      | Dynadot Inc       |
+| cars.estate       | premium   | $123.75   | —             | 66             | 47     | 4      | name.com          |
+| coins.estate      | available | $14.99    | —             | 56             | 41     | 5      | name.com          |
+| tokens.estate     | resell    | —         | —             | 51             | 36     | 6      | Dynadot Inc       |
+| gems.estate       | premium   | $118.80   | $118.80       | 70             | 28     | 4      | namesilo          |
+| matcha.estate     | available | $14.99    | —             | 86             | 39     | 6      | name.com          |
+| apartments.estate | resell    | —         | —             | 60             | 21     | 10     | Sav.com, LLC - 12 |
+| investors.estate  | premium   | $82.50    | —             | 60             | 23     | 9      | name.com          |
+| WiFi.estate       | available | $52.98    | —             | 83             | 37     | 5      | namecheap         |
+| designs.estate    | premium   | $250      | —             | 72             | 21     | 7      | name.com          |
+| tickets.estate    | available | $14.99    | —             | 64             | 34     | 7      | name.com          |
+| prices.estate     | premium   | $82.50    | —             | 51             | 15     | 6      | name.com          |
+| spectra.estate    | available | $14.99    | —             | 62             | 34     | 7      | name.com          |
+| Cats.estate       | available | $52.98    | —             | 59             | 33     | 4      | namecheap         |
+| videos.estate     | available | $14.99    | —             | 52             | 30     | 6      | name.com          |
+| popup.estate      | available | $14.99    | —             | 84             | 29     | 6      | name.com          |
+| heroes.estate     | available | $14.99    | —             | 68             | 29     | 6      | name.com          |
+| Jim.estate        | available | $52.98    | —             | 78             | 28     | 3      | namecheap         |
+| pages.estate      | available | $14.99    | —             | 52             | 28     | 5      | name.com          |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,099-row public sample | 9,099 live domains                               |
+| 1,000-row public sample | 11,442 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ESTATE One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ESTATE One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
