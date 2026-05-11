@@ -493,6 +493,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 2875b78c-e707-43af-834e-ab78f388c872,participants.estate,available,14.99,,58,7,12,name.com,,
 2882a8fd-4a95-4933-899e-e42fe6c55395,geton.estate,available,14.99,,82,10,6,name.com,,
 2893b370-97be-423f-919f-252cc0e64a10,getoutthevote.estate,available,14.99,,70,2,16,name.com,,
+28950a06-d00b-4408-81ad-3ef1cd0d1b00,artgallery.estate,available,14.99,,80,12,11,name.com,,
 28aea9b3-50b7-4469-9ec4-b4e55e244dea,childmarriage.estate,available,14.99,,48,2,14,name.com,,
 28e6afe2-5614-456a-aafe-e5f1ba5d775c,getthehangof.estate,available,14.99,,71,1,15,name.com,,
 28f55a1b-1dd4-4447-952e-256c5652183d,teaspoonful.estate,available,14.99,,66,1,11,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 52bd7729-b9e7-41b1-8f65-c7ddb5dc6815,workouts.estate,available,14.99,,59,8,8,name.com,,
 52dd729b-5302-4277-a79b-6ab39303fddd,statehood.estate,available,14.99,,70,2,9,name.com,,
 52e06e6c-aa21-411d-b9eb-8668675e15f0,woes.estate,available,14.99,,46,4,4,name.com,,
-52e5e8bc-960c-48e9-b88b-b66ce0ddde59,comeof.estate,available,14.99,,74,1,7,name.com,,
