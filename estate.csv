@@ -632,6 +632,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 337c3602-83aa-4b9a-a40a-56f2c925e03d,enterthescene.estate,available,14.99,,62,1,15,name.com,,
 337dd5af-f6a1-400a-a13f-27c28bb7ed69,minimums.estate,available,14.99,,52,2,8,name.com,,
 33a4de21-6c2f-4ee2-8760-0df10b203875,rollout.estate,available,14.99,,72,13,8,name.com,,
+33c7ceeb-1828-4184-8d8d-29fcd23da7bd,WestCoast.estate,premium,,,70,18,10,,,
 33cbe3e7-76bb-4ced-bb13-fb88cec4e992,flor.estate,available,14.99,,74,14,4,name.com,,
 33e20e49-5dbb-4586-b3f8-6f00d94c3bb5,differed.estate,available,14.99,,48,2,8,name.com,,
 34324554-9154-4cf5-887b-e3892654b763,Cathy.estate,available,52.98,,66,14,5,namecheap,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 52b89992-c645-425c-b304-0c2056b7013d,fonts.estate,available,14.99,,58,17,5,name.com,,
 52bd7729-b9e7-41b1-8f65-c7ddb5dc6815,workouts.estate,available,14.99,,59,8,8,name.com,,
 52dd729b-5302-4277-a79b-6ab39303fddd,statehood.estate,available,14.99,,70,2,9,name.com,,
-52e06e6c-aa21-411d-b9eb-8668675e15f0,woes.estate,available,14.99,,46,4,4,name.com,,
