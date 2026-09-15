@@ -1,6 +1,6 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at
 5c14c064-6678-4c95-80c0-1a8dc18f9f4e,Audi.estate,available,,,high,low,4,,,
-805d5a1c-d42b-4370-8f30-9dc5fb99e4c1,vast.estate,available,14.99,,high,low,4,name.com,,
+805d5a1c-d42b-4370-8f30-9dc5fb99e4c1,vast.estate,available,6.98,52.98,medium,low,4,namecheap,,
 0467bb0c-648a-4ad2-a34b-18f32f38abcf,basket.estate,available,14.99,,high,low,6,name.com,,
 e2c5e9b4-0989-412b-a4ba-543e27af6219,picked.estate,available,14.99,,high,low,6,name.com,,
 ad6b0e7f-a28a-4d13-8b73-c1a601d982e7,spread.estate,available,14.99,50.99,high,low,6,name.com,,
@@ -429,7 +429,7 @@ f0065041-eaa2-42d9-9d2e-9a2abb482a1e,captive.estate,available,6.98,52.98,low,low
 e919f938-edb5-4187-b97a-11ec5023ab01,exposure.estate,available,6.98,52.98,medium,low,8,namecheap,,
 c7b98078-65aa-4cb7-9114-2d9f88afa0af,abounding.estate,available,6.98,52.98,low,low,9,namecheap,,
 070a6ad6-a0ca-4568-932e-88f74403797a,barshaped.estate,available,6.98,52.98,low,low,10,namecheap,,
-c89b14b9-f1b2-4ae5-813e-358f73140575,process.estate,available,14.99,,high,low,7,name.com,,
+c89b14b9-f1b2-4ae5-813e-358f73140575,process.estate,available,6.98,52.98,medium,low,7,namecheap,,
 8ed5c6be-685e-44d1-896c-999649b33efa,ring.estate,available,14.99,,medium,low,4,name.com,,
 46d39e1d-14cf-4be4-9c77-98d41059b79a,ifthat.estate,available,14.99,,medium,low,7,name.com,,
 eb763bda-55c2-410e-8d27-9696579e3f4b,coffeetalk.estate,available,14.99,,high,low,11,name.com,,
