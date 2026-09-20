@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .estate one-word domains fr
 
 **Public extract:** 1,000 rows · **Live catalog:** 26,745 domains · **Median ask:** $11.16 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-09-18
+**Last updated:** 2026-09-20
 **Canonical page:** `https://unique.domains/domains/tld/estate`
 **Best for:** founders, investors, studios
 
@@ -77,13 +77,13 @@ print(df.head())
 | free.estate      | resell    | —         | —             | high           | medium | 4      | Spaceship, Inc.  |
 | fashion.estate   | premium   | $118.80   | $118.80       | high           | medium | 7      | namesilo         |
 | cry.estate       | available | $14.99    | —             | high           | low    | 3      | name.com         |
-| play.estate      | resell    | —         | —             | high           | medium | 4      | Porkbun LLC      |
+| lunar.estate     | resell    | —         | —             | high           | low    | 5      | Porkbun LLC      |
 | hangout.estate   | premium   | $118.80   | $118.80       | high           | low    | 8      | namesilo         |
 | eat.estate       | available | $14.99    | —             | high           | low    | 3      | name.com         |
-| lunar.estate     | resell    | —         | —             | high           | low    | 5      | Porkbun LLC      |
+| super.estate     | resell    | —         | —             | medium         | medium | 5      | 1API GmbH        |
 | corporate.estate | premium   | $118.80   | $118.80       | high           | low    | 9      | namesilo         |
 | fan.estate       | available | $14.99    | —             | high           | low    | 3      | name.com         |
-| super.estate     | resell    | —         | —             | medium         | medium | 5      | 1API GmbH        |
+| total.estate     | resell    | —         | —             | high           | low    | 5      | Sav.com, LLC - 3 |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ESTATE One-Word Domains*. Version 2026-09-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ESTATE One-Word Domains*. Version 2026-09-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

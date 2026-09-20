@@ -1,29 +1,29 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
-5c14c064-6678-4c95-80c0-1a8dc18f9f4e,Audi.estate,available,,,high,low,4,,,,
-805d5a1c-d42b-4370-8f30-9dc5fb99e4c1,vast.estate,available,6.98,52.98,medium,low,4,namecheap,,,15/09/2026 03:15
+5c14c064-6678-4c95-80c0-1a8dc18f9f4e,audi.estate,available,,,high,low,4,,,,
+805d5a1c-d42b-4370-8f30-9dc5fb99e4c1,vast.estate,available,15.99,38.99,medium,low,4,namesilo,,,19/09/2026 06:11
 0467bb0c-648a-4ad2-a34b-18f32f38abcf,basket.estate,available,14.99,,high,low,6,name.com,,,
 e2c5e9b4-0989-412b-a4ba-543e27af6219,picked.estate,available,14.99,,high,low,6,name.com,,,
-ad6b0e7f-a28a-4d13-8b73-c1a601d982e7,spread.estate,available,14.99,50.99,high,low,6,name.com,,,
+ad6b0e7f-a28a-4d13-8b73-c1a601d982e7,spread.estate,available,15.99,38.99,medium,low,6,namesilo,,,19/09/2026 12:51
 0bfaed4e-7a61-4f53-a504-8379dd7388ec,characteristic.estate,available,14.99,,high,low,14,name.com,,,
 4259ffd5-f618-4f1a-920a-1371f4eef07d,moneymarketfund.estate,available,14.99,,high,low,17,name.com,,,
-76fe03bc-f032-4335-9826-373d91506898,fixitagainTony.estate,available,14.99,,medium,low,17,name.com,,,
+76fe03bc-f032-4335-9826-373d91506898,fixitagaintony.estate,available,14.99,,medium,low,17,name.com,,,
 58b71d86-4c23-4e89-bb8b-0eded65379aa,standing.estate,available,14.99,,medium,low,8,name.com,,,
 591e29c1-8a3d-4a95-b024-be1e0f6d1975,speedup.estate,available,14.99,,medium,low,8,name.com,,,
-852fd675-5158-40c9-8488-1ebe80827be8,Nicki.estate,available,14.99,,medium,low,5,name.com,,,
+852fd675-5158-40c9-8488-1ebe80827be8,nicki.estate,available,14.99,,medium,low,5,name.com,,,
 ce351416-0506-4a3a-86fc-e0b46adad022,leaving.estate,available,14.99,,high,low,7,name.com,,,
 04541425-bbdb-4006-bdcf-3e29405addb3,khakis.estate,available,14.99,,high,low,6,name.com,,,
 dd80261c-a05f-4e94-ba63-a97bbd17121b,thirtysix.estate,available,6.98,52.98,low,low,10,namecheap,,,
 03dfe8cf-d310-4e2e-91d8-b2e29135e6fb,sip.estate,available,14.99,,medium,low,3,name.com,,,
 1761e738-5e18-4840-8697-8fc2e04a7946,augratin.estate,available,14.99,,high,low,9,name.com,,,
 367b11d1-7a74-4afa-a955-825b2f12867c,intelligence.estate,available,52.98,,high,low,12,namecheap,,,
-d73be5cc-ec66-41c7-a5b6-20df65cd9792,dessert.estate,available,6.98,52.98,medium,low,7,namecheap,,,15/09/2026 06:13
+d73be5cc-ec66-41c7-a5b6-20df65cd9792,dessert.estate,available,15.99,38.99,medium,low,7,namesilo,,,19/09/2026 09:08
 cd8a73d4-b6e5-4676-a3e7-eeb32238c1bb,wipeup.estate,available,14.99,,high,low,7,name.com,,,
 21b4e973-e331-4350-b92a-86f33006f15a,herbalmedicine.estate,available,14.99,,high,low,15,name.com,,,
 5cf6372a-7f23-4397-a5b9-e311529540bc,apoplectic.estate,available,6.98,52.98,low,low,10,namecheap,,,06/08/2026 03:29
 fa44f504-d73d-4124-9ccc-883759559820,longhaired.estate,available,14.99,,low,low,11,name.com,,,
 48a9e964-8e62-4043-97aa-fe515e4af017,identifier.estate,available,14.99,,high,low,10,name.com,,,
 1fe1630d-826f-41d4-8c85-6c1728b898ff,astomatal.estate,available,6.98,52.98,low,low,9,namecheap,,,07/08/2026 09:41
-654a5bdd-58fa-4320-a0fa-32a5b4190d77,learning.estate,available,14.99,,high,low,8,name.com,,,
+654a5bdd-58fa-4320-a0fa-32a5b4190d77,learning.estate,available,15.99,38.99,medium,low,8,namesilo,,,19/09/2026 05:11
 82c0fdb8-455c-4119-abe5-8bf808c3adfa,certainly.estate,available,14.99,,medium,low,9,name.com,,,
 e82b142d-f9dc-40b5-903c-9d93e566b486,use.estate,available,14.99,,high,low,3,name.com,,,
 2f051cb9-d77b-40d4-892b-c6690e168f23,rightnow.estate,available,14.99,,medium,low,9,name.com,,,
@@ -31,8 +31,8 @@ e82b142d-f9dc-40b5-903c-9d93e566b486,use.estate,available,14.99,,high,low,3,name
 f59e472d-1434-457d-a589-1a07617fd05b,mount.estate,available,14.99,,medium,low,5,name.com,,,
 3807f50a-5f7d-4e1e-81f1-fa4149762282,nan.estate,available,14.99,,high,low,3,name.com,,,
 3a5341d7-4ad9-4c2a-889c-e29873310ef4,receptionchair.estate,available,14.99,,medium,low,15,name.com,,,
-3930c370-f4ae-4638-8e71-d016040554ce,Ilikepie.estate,available,14.99,,medium,low,10,name.com,,,
-84d9469f-d77a-45bb-a3d5-552e42d6e820,UnitedKingdom.estate,available,,,low,low,14,,,,
+3930c370-f4ae-4638-8e71-d016040554ce,ilikepie.estate,available,14.99,,medium,low,10,name.com,,,
+84d9469f-d77a-45bb-a3d5-552e42d6e820,unitedkingdom.estate,available,,,low,low,14,,,,
 4ee37466-abf9-4b6c-a366-42ac23227645,abovenamed.estate,available,14.99,,medium,low,11,name.com,,,
 5a72c667-770d-441c-9f9c-d605791c4a60,aramaic.estate,available,6.98,52.98,low,low,7,namecheap,,,06/08/2026 12:13
 44069348-24c6-4a5c-bdd4-380793c95186,expression.estate,available,14.99,,high,low,10,name.com,,,
@@ -60,7 +60,7 @@ bb2c5343-ac43-489d-8033-c39022655414,indespiteof.estate,available,14.99,,medium,
 1ebe63ce-d8a8-44e3-9dd0-3340b27149a6,sinkin.estate,available,14.99,,medium,low,7,name.com,,,
 0a1a9a5a-294f-4f8e-8ed7-1268c5cec5c6,everybodyelse.estate,available,14.99,,medium,low,14,name.com,,,
 1084f6c2-c6d1-4d42-a8b0-e6d82e85df24,afrikander.estate,available,6.98,52.98,low,low,10,namecheap,,,
-2bb59c51-e760-4669-91e5-8576d6e6e472,BlackThursday.estate,available,14.99,,medium,low,14,name.com,,,
+2bb59c51-e760-4669-91e5-8576d6e6e472,blackthursday.estate,available,14.99,,medium,low,14,name.com,,,
 4d27df12-0ec1-4826-a9cc-81fbba5b629b,howmuchisit.estate,available,14.99,,medium,low,14,name.com,,,
 c230be55-296a-4db4-b491-6b8afd62c58b,divert.estate,available,14.99,50.99,high,low,6,name.com,,,
 cfe8a623-4cae-4d4c-9015-1f77ee87f050,threatening.estate,available,14.99,,high,low,11,name.com,,,
@@ -76,7 +76,7 @@ f8e6a174-8c44-438c-9677-7d5b9b82ddd2,enhance.estate,available,14.99,,high,low,7,
 9f7a1028-4d9e-40d7-a823-403e874e4b76,showcase.estate,available,14.99,,high,low,8,name.com,,,
 70804f14-c5ec-47c3-96e1-129e503c44e2,salt.estate,available,14.99,,high,low,4,name.com,,,
 bf56ad65-e2db-467b-aab1-05d82636246c,spiceup.estate,available,14.99,,high,low,8,name.com,,,
-1534247d-d17e-4c4b-869f-6967a4bda716,Iaskyou.estate,available,14.99,,medium,low,9,name.com,,,
+1534247d-d17e-4c4b-869f-6967a4bda716,iaskyou.estate,available,14.99,,medium,low,9,name.com,,,
 d67ae553-eb0a-4f5f-935d-e7804a9281f4,antennal.estate,available,6.98,52.98,low,low,8,namecheap,,,
 1879e851-cfa1-4232-838d-00110127c066,skilful.estate,available,14.99,50.99,high,low,7,name.com,,,
 593cf86b-c0dc-4b0f-98d1-8ed90dfbd146,visitor.estate,available,14.99,,high,low,7,name.com,,,
@@ -103,27 +103,26 @@ be60cce6-a45b-4607-89c7-f769323af5f2,acronym.estate,available,14.99,,high,low,7,
 6ed9dcc3-553d-444e-9d66-c08d5d6b36c1,alienated.estate,available,6.98,52.98,low,low,9,namecheap,,,
 d4e49b06-47f1-492e-9dc0-51f04a5aadbe,fork.estate,available,14.99,,high,low,4,name.com,,,
 6e058b93-d5c2-4245-9970-ac84cc378b4d,winterblues.estate,available,14.99,,low,low,12,name.com,,,
-25026b19-0c80-41f6-8349-212dc3596c7f,Sundayroast.estate,available,14.99,,high,low,12,name.com,,,
+25026b19-0c80-41f6-8349-212dc3596c7f,sundayroast.estate,available,14.99,,high,low,12,name.com,,,
 a55c41ab-1370-45bf-9114-4fab2788dc75,elusive.estate,available,6.98,52.98,low,low,7,namecheap,,,08/08/2026 08:07
 18e6a366-e4d4-4887-8e03-f055db9de4dd,chase.estate,available,,,medium,low,5,,,,
 1acbdb4c-7ee1-4607-809d-c5bc9f14fa55,hair.estate,available,14.99,,high,low,4,name.com,,,
 b062c6f6-d4b0-41f2-9222-0e0eb500ec8c,digitalwatch.estate,available,14.99,,high,low,13,name.com,,,
 d8f5359d-2fbd-40f4-add1-221ce35fe905,wasted.estate,available,14.99,,medium,low,6,name.com,,,
-6904a47a-183f-4928-af96-b83876d15bc9,Streets.estate,available,14.99,,high,low,7,name.com,,,
+6904a47a-183f-4928-af96-b83876d15bc9,streets.estate,available,14.99,,high,low,7,name.com,,,
 664d8934-8ce4-4dac-9e82-f077bff0e9c7,entirety.estate,available,14.99,,high,low,8,name.com,,,
 e78a85aa-ca18-46d8-bccc-1e068c91c19b,prototypal.estate,available,6.98,52.98,low,low,10,namecheap,,,06/08/2026 15:37
 cd53b41e-97b3-4d1e-a78d-9817ebdad880,dozen.estate,available,14.99,50.99,high,low,5,name.com,,,
 7dba3bd1-9e2c-40cb-809f-5642af605a33,incompanywith.estate,available,14.99,,medium,low,15,name.com,,,
-bf257b87-13a7-472e-b618-2af6d60c7108,WestEuropean.estate,available,14.99,,low,low,13,name.com,,,
+bf257b87-13a7-472e-b618-2af6d60c7108,westeuropean.estate,available,14.99,,low,low,13,name.com,,,
 23bd5540-9afd-4acc-9a94-14bd4f413366,abnormal.estate,available,14.99,50.99,high,low,8,name.com,,,
 603bfa3d-2c4f-42dc-be46-87490504e0f0,pink.estate,premium,242,242,high,low,4,namesilo,,,
-e6433937-4935-42ad-8875-c9cdce804ce1,newlook.estate,available,,,low,low,8,,,,
 1a61576b-00e1-4bd9-9bc8-5ae7495a99cc,call.estate,resell,,,high,low,4,Porkbun LLC,06/09/2025 15:07,06/09/2026 15:07,
 eb399cda-420a-4248-85c5-cef59863fa89,bars.estate,available,14.99,,high,low,4,name.com,,,
 fe796d88-444c-4017-b477-f4a24e59e373,lettertotheeditor.estate,available,14.99,,high,low,20,name.com,,,
 a241cd24-6ae6-45ac-825a-2ad1fa2754fe,amended.estate,available,6.98,52.98,low,low,7,namecheap,,,
-27120895-9148-478f-a300-6cab7ed1a6a3,Oxfam.estate,available,14.99,,high,low,5,name.com,,,
-f1bd4944-559a-4845-a607-8c3fa147a6d4,savings.estate,available,14.99,,high,low,7,name.com,,,
+27120895-9148-478f-a300-6cab7ed1a6a3,oxfam.estate,available,14.99,,high,low,5,name.com,,,
+f1bd4944-559a-4845-a607-8c3fa147a6d4,savings.estate,available,15.99,38.99,medium,low,7,namesilo,,,19/09/2026 13:58
 2c83d8e8-336a-491a-b44e-fe2427bab28b,abyssal.estate,available,6.98,52.98,low,low,7,namecheap,,,
 905ce21c-ab05-448d-93fc-d405148ac437,atmost.estate,available,14.99,,medium,low,7,name.com,,,
 b5a91662-c6cc-4fd9-b3d9-323a4165d978,arguseyed.estate,available,6.98,52.98,low,low,10,namecheap,,,06/08/2026 18:38
@@ -140,14 +139,13 @@ eceb0d1c-0787-410d-ab6d-37ada175b831,telephonecall.estate,available,14.99,,mediu
 2d81509c-e6a7-400c-a83c-332bf0288804,aneroid.estate,available,6.98,52.98,low,low,7,namecheap,,,
 f82be1cb-5685-49bf-b5bf-e7462e40fa99,lucrative.estate,available,14.99,,high,low,9,name.com,,,
 669e8270-399f-4c87-bd69-f9ae794d882d,smartphone.estate,available,14.99,,high,low,10,name.com,,,
-9f80b1f3-7738-417f-a512-57dfe8b630fd,sweetFA.estate,available,14.99,,low,low,8,name.com,,,
+9f80b1f3-7738-417f-a512-57dfe8b630fd,sweetfa.estate,available,14.99,,low,low,8,name.com,,,
 65d43d4c-a4b1-4726-94e0-2d6f436e4ec1,action.estate,available,14.99,,high,medium,6,name.com,,,
 a452c50a-f6ed-402b-918b-faa2f7556e35,cancel.estate,available,14.99,,medium,low,6,name.com,,,
-064c3f42-b4cd-421b-b692-e494c93539db,play.estate,resell,,,high,medium,4,Porkbun LLC,15/07/2023 15:15,15/07/2026 15:15,
 d3382252-acc1-4c96-afcb-80f30e784a05,tillable.estate,available,6.98,52.98,low,low,8,namecheap,,,06/08/2026 11:25
 3b68bc7c-1f17-4b9d-9a7d-b7979454a346,modernday.estate,available,14.99,50.99,high,low,10,name.com,,,
 12fd19d7-71d0-44e1-980b-9f27e18567d2,nipping.estate,available,6.98,52.98,low,low,7,namecheap,,,08/08/2026 16:46
-10db55e9-6847-4d63-ac67-3c4dcc0ba440,Phil.estate,available,14.99,,high,medium,4,name.com,,,
+10db55e9-6847-4d63-ac67-3c4dcc0ba440,phil.estate,available,14.99,,high,medium,4,name.com,,,
 d9404929-5dc1-4f39-9a51-28b8548b931c,niner.estate,available,6.98,52.98,low,low,5,namecheap,,,
 82e76123-ccec-4037-905a-b58be1270724,flexing.estate,available,14.99,,high,low,7,name.com,,,
 6f78d5a5-d5a1-4177-8ec0-d1fb68934935,nuclear.estate,available,14.99,,high,low,7,name.com,,,
@@ -203,7 +201,7 @@ f48b17bc-2e00-4d8c-bd05-b0cc4ae58870,have.estate,available,14.99,,high,low,4,nam
 8d90c6c6-ef09-4fa0-8ec2-28b040358937,packed.estate,available,14.99,,medium,low,6,name.com,,,
 ec46244d-7009-4030-9963-e844f02eb0ae,registeredtrademark.estate,available,14.99,,medium,low,20,name.com,,,
 72247be9-8961-448e-aad3-e5aafa5b39c4,turncoat.estate,available,6.98,52.98,low,low,8,namecheap,,,06/08/2026 03:49
-3c0bedfa-723a-44ad-84bd-d1aac1852b93,Nokia.estate,available,,,high,low,5,,,,
+3c0bedfa-723a-44ad-84bd-d1aac1852b93,nokia.estate,available,,,high,low,5,,,,
 91f596b6-0f78-4246-a470-1644cdea106b,cxxxv.estate,available,6.98,52.98,low,low,5,namecheap,,,
 c6929071-db0c-4fda-a518-997f87fcd5c8,antarctic.estate,available,6.98,52.98,low,low,9,namecheap,,,
 6c4c0199-170b-4f9c-bf5e-29ea0b393edf,noncitizen.estate,available,6.98,52.98,low,low,10,namecheap,,,
@@ -229,7 +227,7 @@ afec2686-d61b-4e12-acee-d04458f05861,fashion.estate,premium,118.8,118.8,high,med
 3682b8e7-8c5a-4f0a-a6ea-15988b9d71d4,informationengine.estate,available,14.99,,high,low,18,name.com,,,
 723ea163-0f1c-4a26-8683-279a77a1a42d,globular.estate,available,6.98,52.98,low,low,8,namecheap,,,08/08/2026 10:06
 1cda18f1-8c0f-4fbc-9e70-306bcd73c869,lookback.estate,available,14.99,,high,low,9,name.com,,,
-ce43db75-4794-435d-ac74-702c2105d31e,TexasCity.estate,available,14.99,,low,low,10,name.com,,,
+ce43db75-4794-435d-ac74-702c2105d31e,texascity.estate,available,14.99,,low,low,10,name.com,,,
 82eab1e9-cb88-4b41-ae08-81c3e3fe0242,givethanks.estate,available,14.99,,medium,low,11,name.com,,,
 fa4c941d-c26d-43e3-b20a-24e88e8c6a46,things.estate,available,14.99,,high,low,6,name.com,,,
 f5ac44a4-20f7-450f-a101-1fe632047b0d,earlyadopter.estate,available,14.99,,high,low,13,name.com,,,
@@ -237,7 +235,7 @@ f5ac44a4-20f7-450f-a101-1fe632047b0d,earlyadopter.estate,available,14.99,,high,l
 7ab474ca-ee7e-40d8-8ae9-7416d18fd42b,germicidal.estate,available,6.98,52.98,low,low,10,namecheap,,,08/08/2026 07:07
 d5a7173c-cf66-47cf-8991-8019258b43f1,garret.estate,available,6.98,52.98,low,low,6,namecheap,,,07/08/2026 15:51
 1f2f0288-e392-4efe-b932-02a151f3ce9f,discover.estate,available,,,medium,low,8,,,,
-9c9b779e-0655-4395-ae97-70eea31b79a4,Dicks.estate,available,14.99,,medium,low,5,name.com,,,
+9c9b779e-0655-4395-ae97-70eea31b79a4,dicks.estate,available,14.99,,medium,low,5,name.com,,,
 d1db663f-fbfa-49e2-aeb2-9d2446d691ac,adjuvant.estate,available,6.98,52.98,low,low,8,namecheap,,,
 fa1c17fb-f240-40b4-97b4-33ae28e121e6,agonized.estate,available,6.98,52.98,low,low,8,namecheap,,,
 01413640-c108-489e-8b3b-87b7a6f25c43,automotive.estate,available,14.99,,high,low,10,name.com,,,
@@ -277,14 +275,14 @@ d481ed94-2990-4ca8-b37f-cd1af891d9b3,howlatthemoon.estate,available,14.99,,high,
 75a84967-b120-4c48-a586-22ee934b811d,compulsory.estate,available,14.99,50.99,high,low,10,name.com,,,
 8a5a5b37-f50c-47ef-93a7-9e3641ede7ea,detergent.estate,available,14.99,50.99,high,low,9,name.com,,,
 6f0ff1c0-6201-426d-a499-3f9cdbc04d4a,carnal.estate,available,6.98,52.98,low,low,6,namecheap,,,
-746cab20-3396-4888-a13f-ae66e59b8358,Greg.estate,available,14.99,,medium,low,4,name.com,,,
+746cab20-3396-4888-a13f-ae66e59b8358,greg.estate,available,14.99,,medium,low,4,name.com,,,
 849b959f-df65-4323-9ebe-329cef5e8771,prenatal.estate,available,14.99,,high,low,8,name.com,,,
 24600712-75c0-4e3a-9b48-4cd0f224b7f7,success.estate,resell,,,high,low,7,"Sav.com, LLC - 15",06/12/2025 15:15,06/12/2026 15:15,
 5f499974-de0f-4048-9fae-c8cd9260f443,husky.estate,available,,,medium,low,5,,,,
 e41fdcc5-0e1f-449a-b5fb-a37f134d45cb,anglican.estate,available,6.98,52.98,low,low,8,namecheap,,,
 5fecbbc5-9a0f-400c-a3b9-568128b59e1d,veteran.estate,available,14.99,,high,low,7,name.com,,,
 b03cef8c-432d-4b0f-91de-e62eac551e61,carefor.estate,available,14.99,,high,low,8,name.com,,,
-75c008f4-0086-46a5-8e59-63e7b85a6fdf,Ropes.estate,available,14.99,,medium,low,5,name.com,,,
+75c008f4-0086-46a5-8e59-63e7b85a6fdf,ropes.estate,available,14.99,,medium,low,5,name.com,,,
 abc10b86-a6bd-48ac-8ef2-3a05af0ef122,twine.estate,available,14.99,,medium,low,5,name.com,,,
 99949db9-af59-40d8-bee8-a4fedf65d159,aphanitic.estate,available,6.98,52.98,low,low,9,namecheap,,,05/08/2026 23:01
 574841aa-43b9-48ea-8243-faa3635c7a41,unconvincing.estate,available,14.99,,medium,low,12,name.com,,,
@@ -314,7 +312,7 @@ fcb07723-f5e9-405a-9319-e4f011296903,bedded.estate,available,6.98,52.98,low,low,
 c4662a65-9d7f-4249-a5a5-e03c829303f5,theirs.estate,available,14.99,,low,low,6,name.com,,,
 e12f5320-f787-4983-ac59-bef705ac2040,rep.estate,available,14.99,,medium,low,3,name.com,,,
 91006849-c941-47e4-84e1-ec4b688deec5,league.estate,available,14.99,,medium,low,6,name.com,,,
-61229c21-a7c9-4ffa-978b-f6d10a8d88a7,NewYorkState.estate,available,14.99,,medium,low,14,name.com,,,
+61229c21-a7c9-4ffa-978b-f6d10a8d88a7,newyorkstate.estate,available,14.99,,medium,low,14,name.com,,,
 bf637fdc-cec2-46be-9fbb-506bdafaa506,atlantic.estate,available,,,high,low,8,,,,
 e92b3e76-d73b-460b-88b1-3cb1c7aef8eb,implied.estate,available,14.99,,high,low,7,name.com,,,
 cc447233-d912-49ee-86f6-f86b09f0ee2b,airpollution.estate,available,14.99,,medium,low,13,name.com,,,
@@ -332,13 +330,13 @@ a0099fdb-a5ba-44b1-bcea-a6ff7caf3118,transitions.estate,available,14.99,,low,low
 ea9dea25-1a31-4722-93a2-174e3505cc5a,articled.estate,available,6.98,52.98,low,low,8,namecheap,,,06/08/2026 08:28
 0f1cf09c-2a9f-466a-a307-eb1a8aec3966,least.estate,available,14.99,,high,low,5,name.com,,,
 bdc39ebb-72f7-4910-a75a-11eb674bed3c,memorise.estate,available,14.99,,high,low,8,name.com,,,
-885e17cf-a721-45b4-929b-da5ef48bb431,idiot.estate,available,6.98,52.98,low,low,5,namecheap,,,15/09/2026 00:52
+885e17cf-a721-45b4-929b-da5ef48bb431,idiot.estate,available,15.99,38.99,low,low,5,namesilo,,,19/09/2026 09:51
 585c3a07-38b7-499e-aad2-ecfc7cf7d8c2,baseborn.estate,available,6.98,52.98,low,low,8,namecheap,,,08/08/2026 21:34
 0f6fb470-94f3-44ed-b7a7-5cf84f5d8652,superman.estate,available,14.99,,high,low,8,name.com,,,
 758f357b-0ffd-4df9-97a6-145d0d93dfa5,boss.estate,available,,,high,high,4,,,,
-4cd6b935-b85f-493b-8c7c-314613fe870d,OurFather.estate,available,14.99,,low,low,10,name.com,,,
+4cd6b935-b85f-493b-8c7c-314613fe870d,ourfather.estate,available,14.99,,low,low,10,name.com,,,
 d424308e-19ed-4e4b-9cfd-641ccd2c1eec,bringback.estate,available,14.99,,medium,low,10,name.com,,,
-6f7ea6fc-7812-41fd-9408-b2e8f462ad9e,NewWorld.estate,available,14.99,,medium,low,9,name.com,,,
+6f7ea6fc-7812-41fd-9408-b2e8f462ad9e,newworld.estate,available,14.99,,medium,low,9,name.com,,,
 55a93fbe-6954-4a81-8292-664ee459ce6c,acoustical.estate,available,6.98,52.98,low,low,10,namecheap,,,
 f173ef99-fc1f-42dc-99e9-b621862e263f,workethic.estate,available,14.99,,high,low,10,name.com,,,
 e4e968eb-f1df-45bd-8e14-ec48445c6f9b,strategy.estate,available,14.99,,high,medium,8,name.com,,,
@@ -353,7 +351,7 @@ e4e968eb-f1df-45bd-8e14-ec48445c6f9b,strategy.estate,available,14.99,,high,mediu
 55e6cfd3-29db-41f1-8871-864eddd3e075,muffincup.estate,available,14.99,,high,low,10,name.com,,,
 257aa202-d684-47ef-b468-463e63ac3d24,tossaway.estate,available,14.99,,medium,low,9,name.com,,,
 f4087606-2841-4230-892b-8f200e4b5ebf,extraordinary.estate,available,14.99,,high,low,13,name.com,,,
-477476c8-59f3-43f7-b272-2ad0d0942b87,VaticanCity.estate,available,14.99,,low,low,12,name.com,,,
+477476c8-59f3-43f7-b272-2ad0d0942b87,vaticancity.estate,available,14.99,,low,low,12,name.com,,,
 6e7aa468-b26a-4f7f-b2e8-3bc3eb380c65,xlvi.estate,available,6.98,52.98,low,low,4,namecheap,,,
 5eb86173-df59-4fc8-a3ca-01ad6aecccf3,inthat.estate,available,14.99,,medium,low,7,name.com,,,
 ac7e6c38-5898-4f77-855a-77a0554db591,chore.estate,available,14.99,,high,low,5,name.com,,,
@@ -409,7 +407,6 @@ c001fdc1-9e40-4421-9f6c-0520629d4be4,doublecheck.estate,available,14.99,,high,lo
 777c2797-d171-41e0-94b6-34d56ad48d97,belated.estate,available,6.98,52.98,low,low,7,namecheap,,,09/08/2026 12:37
 f20eecf9-0a04-4c30-8e2a-25c7f28bdd7f,razor.estate,available,14.99,,medium,low,5,name.com,,,
 8366f283-75e1-44a2-a641-337c843e9d12,givebirth.estate,available,14.99,,high,low,10,name.com,,,
-6be5db58-1fd4-4bb7-ba9c-85bc73df900b,entrepreneur.estate,available,,,high,medium,12,,,,
 8feadc28-a836-45c3-9295-068b99c07e4e,mydearfellow.estate,available,14.99,,low,low,14,name.com,,,
 93fe799f-1b50-4fb7-80f1-c995bf850530,berried.estate,available,6.98,52.98,low,low,7,namecheap,,,08/08/2026 04:45
 7c4d878a-d786-4c1a-b0a7-22796e61aa33,acting.estate,available,14.99,50.99,high,low,6,name.com,,,
@@ -429,7 +426,7 @@ f0065041-eaa2-42d9-9d2e-9a2abb482a1e,captive.estate,available,6.98,52.98,low,low
 e919f938-edb5-4187-b97a-11ec5023ab01,exposure.estate,available,6.98,52.98,medium,low,8,namecheap,,,08/09/2026 13:44
 c7b98078-65aa-4cb7-9114-2d9f88afa0af,abounding.estate,available,6.98,52.98,low,low,9,namecheap,,,
 070a6ad6-a0ca-4568-932e-88f74403797a,barshaped.estate,available,6.98,52.98,low,low,10,namecheap,,,08/08/2026 15:16
-c89b14b9-f1b2-4ae5-813e-358f73140575,process.estate,available,6.98,52.98,medium,low,7,namecheap,,,15/09/2026 03:30
+c89b14b9-f1b2-4ae5-813e-358f73140575,process.estate,available,15.99,38.99,medium,low,7,namesilo,,,19/09/2026 12:26
 8ed5c6be-685e-44d1-896c-999649b33efa,ring.estate,available,14.99,,medium,low,4,name.com,,,
 46d39e1d-14cf-4be4-9c77-98d41059b79a,ifthat.estate,available,14.99,,medium,low,7,name.com,,,
 eb763bda-55c2-410e-8d27-9696579e3f4b,coffeetalk.estate,available,14.99,,high,low,11,name.com,,,
@@ -438,7 +435,7 @@ eb763bda-55c2-410e-8d27-9696579e3f4b,coffeetalk.estate,available,14.99,,high,low
 e70bb2f4-fb13-498f-9eba-2987b2b55d29,perfervid.estate,available,6.98,52.98,low,low,9,namecheap,,,06/08/2026 16:29
 835276b6-a216-4c85-a60a-b66d140b7571,bathe.estate,available,14.99,,high,low,5,name.com,,,
 3337fdf3-615a-4f9a-aa63-e675a0764807,exhaustion.estate,available,14.99,,medium,low,10,name.com,,,
-56f72c83-559e-425f-a50b-6e9244ff3f55,weight.estate,available,6.98,52.98,low,low,6,namecheap,,,15/09/2026 06:16
+56f72c83-559e-425f-a50b-6e9244ff3f55,weight.estate,available,6.98,52.98,low,low,6,namecheap,,,19/09/2026 19:07
 a1b3f5fe-949e-4f47-a5a6-a1b7ae041673,orbicular.estate,available,6.98,52.98,low,low,9,namecheap,,,08/08/2026 10:11
 cf17aacc-69b7-4219-9168-bf932b07c218,uproar.estate,available,14.99,,high,low,6,name.com,,,
 991495be-8252-4d4f-8440-bad5e86c67a4,hook.estate,available,14.99,,medium,low,4,name.com,,,
@@ -448,16 +445,16 @@ b6328749-41dd-4dcc-84a3-a9d30c19b851,ablated.estate,available,6.98,52.98,low,low
 0a2fc163-7bdf-47ad-9018-32264d12e010,digits.estate,available,14.99,,high,low,6,name.com,,,
 ecc1d8cf-16e4-4249-a803-a11809c9f92e,panic.estate,available,14.99,,medium,low,5,name.com,,,
 2d3f1b3f-e982-4266-ba12-4f539bebb433,employ.estate,available,6.98,52.98,medium,low,6,namecheap,,,08/09/2026 13:39
-eef901fd-2889-4ed1-bc33-15aa8bf72fa0,working.estate,available,6.98,52.98,medium,low,7,namecheap,,,14/09/2026 03:37
+eef901fd-2889-4ed1-bc33-15aa8bf72fa0,working.estate,available,15.99,38.99,medium,low,7,namesilo,,,19/09/2026 07:09
 0ea7c58c-6c4f-4d9d-8298-f63ea6f75373,aperiodic.estate,available,6.98,52.98,low,low,9,namecheap,,,05/08/2026 22:30
 e507afed-1ab5-4d8a-895c-67413584a4a8,dislike.estate,available,14.99,,high,low,7,name.com,,,
-74e94740-dca5-49ef-977d-e43ff0ebc5ad,Ionlyworkhere.estate,available,14.99,,medium,low,16,name.com,,,
+74e94740-dca5-49ef-977d-e43ff0ebc5ad,ionlyworkhere.estate,available,14.99,,medium,low,16,name.com,,,
 47bea080-ccc6-4be8-86af-c22b485bd9b9,reminder.estate,available,14.99,,medium,low,8,name.com,,,
 c53e2e1e-0f90-4918-b08b-26bdc2007d09,vexatious.estate,available,6.98,52.98,low,low,9,namecheap,,,
 5f859b1c-4276-4871-ae1d-6af500800bdb,asterismal.estate,available,6.98,52.98,low,low,10,namecheap,,,07/08/2026 09:01
 620147e8-2d6e-4cc8-932d-ad8a060ba60f,makegood.estate,available,14.99,,high,low,9,name.com,,,
 73f30d4f-519e-4ea2-85f8-57686a3408f2,clxxx.estate,available,6.98,52.98,low,low,5,namecheap,,,
-4b5ab0f3-3d07-42fb-90e5-f1085f03f975,Romanfoot.estate,available,14.99,,low,low,10,name.com,,,
+4b5ab0f3-3d07-42fb-90e5-f1085f03f975,romanfoot.estate,available,14.99,,low,low,10,name.com,,,
 d17e8caf-8a0d-486e-aaeb-23da5b2d366e,silvery.estate,available,6.98,52.98,low,low,7,namecheap,,,06/08/2026 17:56
 59e25706-15d3-47d2-b106-427270d9014b,roast.estate,available,14.99,,high,low,5,name.com,,,
 54829f8d-9027-4021-af36-cd726abee0ff,nailclipper.estate,available,14.99,,medium,low,12,name.com,,,
@@ -492,7 +489,7 @@ c86d1f2c-c80e-4357-a725-c4251ffb4f82,cherryontop.estate,available,14.99,,high,lo
 8392bc28-ddf4-4f55-a04f-6923ae382d70,myapology.estate,available,14.99,,high,low,10,name.com,,,
 460e20a1-8054-4211-a2aa-49a8a5fb020c,xci.estate,available,6.98,52.98,low,low,3,namecheap,,,
 866d8080-03a8-460f-bc17-283f378ab869,ifallen.estate,available,14.99,,medium,low,8,name.com,,,
-4d5460fe-890b-455b-8d8c-3b3f846a5ccc,Dives.estate,available,14.99,,medium,low,5,name.com,,,
+4d5460fe-890b-455b-8d8c-3b3f846a5ccc,dives.estate,available,14.99,,medium,low,5,name.com,,,
 645c7dc2-ba25-4251-bf9e-f279f7e78c22,ganja.estate,available,14.99,,medium,low,5,name.com,,,
 360f7a67-3acd-4ea0-8106-b16f43747dcb,beer.estate,available,14.99,,high,low,4,name.com,,,
 67cbfb64-6fe1-42ec-9ea5-dd1e7b859889,cameroon.estate,available,,,high,low,8,,,,
@@ -508,7 +505,7 @@ f0599c35-d19a-424f-9398-761c9f1950d8,accessary.estate,available,6.98,52.98,low,l
 df88ff87-6ad8-43b6-b0fd-bb8488c96b2a,armada.estate,available,14.99,,medium,low,6,name.com,,,
 f2b74d63-a31a-437e-b70a-111144f4ff6a,wordplay.estate,available,14.99,,medium,low,9,name.com,,,
 a7c854ff-c927-490d-803d-33a40c7765a4,discuss.estate,available,14.99,,high,low,7,name.com,,,
-b1a2ae89-6cea-4a0b-9eb8-6b7438234cd7,licensed.estate,available,6.98,52.98,medium,low,8,namecheap,,,14/09/2026 03:12
+b1a2ae89-6cea-4a0b-9eb8-6b7438234cd7,licensed.estate,available,15.99,38.99,low,low,8,namesilo,,,19/09/2026 16:56
 8ee81a7a-06f3-49d5-b966-bf16784759a0,shrimp.estate,available,14.99,,high,low,6,name.com,,,
 7bf34fa5-e8da-4c15-9a36-8a926d0c2976,ampullary.estate,available,6.98,52.98,low,low,9,namecheap,,,
 d9fd6a34-049b-475b-a34b-1222d129cf37,kooky.estate,available,6.98,52.98,low,low,5,namecheap,,,06/08/2026 21:04
@@ -570,7 +567,7 @@ d1885d10-e088-4eb1-8f39-bba4ca1ae406,agnatic.estate,available,6.98,52.98,low,low
 7712919f-b3a4-47e7-bddb-6952fb5b1226,makelemonade.estate,available,14.99,,high,low,13,name.com,,,
 e61862c6-2e23-4f90-a15a-18355512bef6,unceasing.estate,available,6.98,52.98,low,low,9,namecheap,,,
 3e55d04e-437b-4d20-97eb-8cb756c2a893,howl.estate,available,14.99,,high,low,4,name.com,,,
-99078a52-21c9-4fac-84af-384a388f3270,Philips.estate,available,,,high,low,7,,,,
+99078a52-21c9-4fac-84af-384a388f3270,philips.estate,available,,,high,low,7,,,,
 12af7d0e-6aaa-4e4a-8b84-5fa557a8ca6d,flourishing.estate,available,14.99,,high,low,11,name.com,,,
 e6e67935-506b-4741-a39a-c6787dbb43d9,marihuana.estate,available,14.99,,medium,low,9,name.com,,,
 b768a3f6-4a68-4437-ba03-b5aeca40cf13,asiatic.estate,available,6.98,52.98,low,low,7,namecheap,,,07/08/2026 02:29
@@ -607,7 +604,7 @@ fc61eaf2-c69c-43e1-97e2-2fead5aab559,doledout.estate,available,6.98,52.98,low,lo
 bcf388a5-0670-4b01-ba37-f473d902614a,arresting.estate,available,6.98,52.98,low,low,9,namecheap,,,06/08/2026 21:47
 c81b18c4-2c13-4047-9287-f94bb7b80d32,therealityis.estate,available,14.99,,low,low,14,name.com,,,
 4d3a91d8-0ae8-4074-acb2-99d2174939fa,decay.estate,available,14.99,,high,low,5,name.com,,,
-b282e07a-612e-429b-9f1a-359844340e78,Shrek.estate,available,,,high,low,5,,,,
+b282e07a-612e-429b-9f1a-359844340e78,shrek.estate,available,,,high,low,5,,,,
 aee26155-4dd3-4c26-a42e-6b8ef90c2630,tons.estate,available,14.99,,high,low,4,name.com,,,
 fdad0b83-13f4-405c-8d03-ee9a8de6e9da,bald.estate,available,6.98,52.98,low,low,4,namecheap,,,08/08/2026 09:16
 84bc29fe-b5fe-40ea-a48a-09a468545872,acuminate.estate,available,6.98,52.98,low,low,9,namecheap,,,
@@ -617,7 +614,7 @@ fdad0b83-13f4-405c-8d03-ee9a8de6e9da,bald.estate,available,6.98,52.98,low,low,4,
 e8efa518-e357-4ca0-afeb-ebcc34516c17,fallfor.estate,available,14.99,,medium,low,8,name.com,,,
 c43e2119-950d-4d58-b443-442dc2ce997f,fix.estate,premium,500,,medium,low,3,name.com,,,
 265a1c87-0793-4a23-a88b-f609e0cc49db,understood.estate,available,14.99,,high,low,10,name.com,,,
-b9b61bae-9c1e-42d1-9b3e-2b0fbee647ea,MMR.estate,available,14.99,,high,low,3,name.com,,,
+b9b61bae-9c1e-42d1-9b3e-2b0fbee647ea,mmr.estate,available,14.99,,high,low,3,name.com,,,
 71d02895-8c0a-44e1-aebe-aaa58073272f,fillin.estate,available,14.99,,high,low,7,name.com,,,
 d8764024-9ca8-4282-aff8-6057a52be489,mouth.estate,available,6.98,52.98,medium,low,5,namecheap,,,08/09/2026 03:51
 73c6a108-67ce-4133-9dc4-aba198ddc3bd,shaking.estate,available,14.99,,medium,low,7,name.com,,,
@@ -646,7 +643,7 @@ e1ba369e-25bb-4c40-bb38-7d9402ef5dc0,spaceshuttle.estate,available,14.99,,high,l
 a18eaa91-d937-42de-9b50-aec2d0b48a46,doyoumind.estate,available,14.99,,medium,low,11,name.com,,,
 fd2d030a-e150-4cc5-93c6-7f14b8a2f23a,publicity.estate,available,14.99,,high,low,9,name.com,,,
 28aa776c-18dd-4dcb-86bf-46f590b42fca,hassle.estate,available,14.99,,high,low,6,name.com,,,
-10ce0aa5-7a72-40b6-8e75-a05204ff9a8f,naming.estate,available,14.99,,high,low,6,name.com,,,
+10ce0aa5-7a72-40b6-8e75-a05204ff9a8f,naming.estate,available,6.98,52.98,medium,low,6,namecheap,,,19/09/2026 13:00
 bf4eb4ff-275e-42d4-a4ac-dc4bec3e90cd,walking.estate,available,14.99,,high,low,7,name.com,,,
 5fb36cb5-f9cf-468c-ab43-278d5e83c7ab,truant.estate,available,6.98,52.98,low,low,6,namecheap,,,08/08/2026 01:41
 52e54cae-7252-4f04-9f65-0138c2772578,bareheaded.estate,available,6.98,52.98,low,low,10,namecheap,,,08/08/2026 18:49
@@ -694,7 +691,7 @@ fd247488-bbc3-48e8-840b-b19753900482,reset.estate,available,,,high,low,5,,,,
 1c4b73ad-adbc-4d63-8c9a-7295ce401ba8,tightenup.estate,available,14.99,,medium,low,10,name.com,,,
 0fcc3a5d-3022-47e4-8b38-7493ff2184cc,azo.estate,available,6.98,52.98,low,low,3,namecheap,,,08/08/2026 02:17
 49fccaa9-4458-46ed-813d-73f488b2e5a7,counter.estate,available,14.99,,high,low,7,name.com,,,
-6bfa16ca-bcba-48ca-a4ba-4a30fd645dc7,advised.estate,available,6.98,52.98,low,low,7,namecheap,,,14/09/2026 02:01
+6bfa16ca-bcba-48ca-a4ba-4a30fd645dc7,advised.estate,available,6.98,52.98,low,low,7,namecheap,,,19/09/2026 08:43
 8feee0ee-3745-46be-b041-355a41e01197,youknowit.estate,available,14.99,,high,low,11,name.com,,,
 d137aaca-85c3-4d92-94a9-d50fba48aca2,annotated.estate,available,14.99,,medium,low,9,name.com,,,
 bb6c1ee2-49f5-47dd-95e5-b5e2644eeae9,marooned.estate,available,14.99,,medium,low,8,name.com,,,
@@ -707,11 +704,10 @@ be9f8b15-c9e3-49e2-a3fb-72156acb2de8,album.estate,available,14.99,,high,low,5,na
 4891e543-7130-478d-8074-2adf236aad91,produce.estate,available,14.99,,high,low,7,name.com,,,
 83b1a386-fc48-4283-91b9-b36f5df660a4,checkout.estate,available,14.99,,medium,low,9,name.com,,,
 3c200845-32e3-4ec0-a491-50ad80244db6,canal.estate,available,14.99,,medium,low,5,name.com,,,
-9810a6a9-59c3-4610-8448-f16b8c6fa542,integrate.estate,available,14.99,,high,low,9,name.com,,,
+9810a6a9-59c3-4610-8448-f16b8c6fa542,integrate.estate,available,15.99,38.99,medium,low,9,namesilo,,,20/09/2026 03:11
 390277f4-a8c2-4828-b4b6-d8a8b8fada4c,dustyrose.estate,available,14.99,,medium,low,10,name.com,,,
 9a1d98cc-d4cf-4fdd-94b3-451cb5967d57,anemic.estate,available,6.98,52.98,low,low,6,namecheap,,,
 4bba5ba1-69ff-489f-9b77-fda70341b5fa,urge.estate,available,14.99,,high,low,4,name.com,,,
-ae367fee-799f-4350-89a4-c85bc91e4a8a,OldWorld.estate,available,14.99,,low,low,9,name.com,,,
 71012f34-fab3-412f-8d8c-fac8ecb07724,entirely.estate,available,6.98,52.98,low,low,8,namecheap,,,
 cf11ab7b-c48b-417c-9c86-0724b103f199,clock.estate,available,14.99,,medium,low,5,name.com,,,
 21fe1f0e-772d-4cae-87bf-7c5d7620189b,optionally.estate,available,14.99,,medium,low,10,name.com,,,
@@ -721,20 +717,20 @@ a4e66bc4-ebf4-4164-809d-581f1628cf37,sec.estate,available,14.99,,medium,low,3,na
 ed79a638-efe2-494e-98a6-3ecbd5ff3583,congregation.estate,available,14.99,,high,low,12,name.com,,,
 c11989d9-67fd-4de8-baef-101b2e5f7f26,ariled.estate,available,6.98,52.98,low,low,6,namecheap,,,06/08/2026 19:09
 bd337d0a-ddab-4e8e-afd6-29e1de5676a3,neck.estate,available,14.99,,high,low,4,name.com,,,
-eb059724-51e6-4c2b-a742-8526a566602d,Frenchrice.estate,available,14.99,,high,low,11,name.com,,,
+eb059724-51e6-4c2b-a742-8526a566602d,frenchrice.estate,available,14.99,,high,low,11,name.com,,,
 bfaf2ed6-3415-44ac-9207-1e96cd32b45f,whom.estate,available,14.99,,low,low,4,name.com,,,
 80b35ca6-8708-420f-973a-9af839fa8835,keepsomeonecompany.estate,available,14.99,,high,low,20,name.com,,,
 0a4ed693-c68e-4e16-9421-dc73658a4edf,dying.estate,available,14.99,50.99,high,low,5,name.com,,,
 cab2f06e-1e47-43fc-8056-4c67d8018798,grownup.estate,available,6.98,52.98,low,low,7,namecheap,,,
 9d850df8-2c89-4904-9dce-c2cfa67a3155,terribly.estate,available,14.99,,medium,low,8,name.com,,,
-3a9b3498-b5ba-4c2d-9951-0569add6b9fa,pastrychef.estate,available,6.98,52.98,medium,low,11,namecheap,,,14/09/2026 04:03
+3a9b3498-b5ba-4c2d-9951-0569add6b9fa,pastrychef.estate,available,15.99,38.99,medium,low,11,namesilo,,,19/09/2026 03:45
 a43011bb-8452-4750-8cce-6aef4b1eb18d,needing.estate,available,14.99,,high,low,7,name.com,,,
 a13afbc4-1d6b-4fa8-9578-4c906a8d8123,comeclose.estate,available,6.98,52.98,low,low,10,namecheap,,,06/08/2026 09:44
-8c55ee9a-d8aa-4c9e-939a-f64cf64045eb,FedEx.estate,available,14.99,,high,low,5,name.com,,,
+8c55ee9a-d8aa-4c9e-939a-f64cf64045eb,fedex.estate,available,14.99,,high,low,5,name.com,,,
 7e329120-cf2d-43bd-9eb2-c4eac57f8b1c,closely.estate,available,14.99,,medium,low,7,name.com,,,
-53207cd7-a569-4ccc-bc51-4f10e2100739,Siri.estate,available,,,high,low,4,,,,
+53207cd7-a569-4ccc-bc51-4f10e2100739,siri.estate,available,,,high,low,4,,,,
 ac16188a-1068-4c65-af82-dc4113838ccd,concealed.estate,available,14.99,50.99,medium,low,9,name.com,,,
-1ba53330-9739-485c-b035-c7e3d310e59c,Pentium.estate,available,14.99,,high,low,7,name.com,,,
+1ba53330-9739-485c-b035-c7e3d310e59c,pentium.estate,available,14.99,,high,low,7,name.com,,,
 f91aad0f-480a-4cca-963d-726327dfaa45,believable.estate,available,6.98,52.98,low,low,10,namecheap,,,09/08/2026 13:01
 25ea5345-c99e-49d9-ae9d-1d388ad30ffb,bass.estate,available,14.99,,medium,low,4,name.com,,,
 442b26f8-9323-4505-8b77-21cbd7071025,twentysix.estate,available,14.99,50.99,high,low,10,name.com,,,
@@ -744,13 +740,13 @@ f91aad0f-480a-4cca-963d-726327dfaa45,believable.estate,available,6.98,52.98,low,
 5b7ae6db-0f86-47b8-a7ff-b7d33041635e,setfree.estate,available,14.99,,medium,low,8,name.com,,,
 9537ce78-07a9-40b7-b5c4-3ef390d97269,detective.estate,available,14.99,,high,low,9,name.com,,,
 8d3f43fd-0c54-4a29-9a6f-ffac47a20478,menu.estate,available,14.99,,high,low,4,name.com,,,
-61255f23-b53e-4bde-840a-4d7bbb1fe3e8,Seals.estate,available,14.99,,medium,low,5,name.com,,,
+61255f23-b53e-4bde-840a-4d7bbb1fe3e8,seals.estate,available,14.99,,medium,low,5,name.com,,,
 e7356eed-2f61-43d3-9470-6d5e12f7c3f0,false.estate,available,14.99,,medium,low,5,name.com,,,
 c5e3d876-972e-4935-bd4b-ef02c370e193,hangout.estate,premium,118.8,118.8,high,low,8,namesilo,,,
 8c891c89-df88-4318-bd25-b2aebae727cb,releaseversion.estate,available,14.99,,high,low,15,name.com,,,
 5b7afd81-15a0-4c05-aff3-49ec56a1ba2d,autogenous.estate,available,6.98,52.98,low,low,10,namecheap,,,07/08/2026 20:16
 a433352a-12e2-4d64-ae34-ee35ac019af4,specification.estate,available,14.99,,low,low,13,name.com,,,
-bd28f0c7-fa9d-4342-8d65-c2e4ab2414c2,Bflat.estate,available,14.99,,medium,low,6,name.com,,,
+bd28f0c7-fa9d-4342-8d65-c2e4ab2414c2,bflat.estate,available,14.99,,medium,low,6,name.com,,,
 c2b91458-8003-4dc7-9ad6-e8784fc2af7f,tooright.estate,available,14.99,,low,low,9,name.com,,,
 d995bc06-8c2d-4397-9ef5-bca6a96919b6,device.estate,available,14.99,,high,low,6,name.com,,,
 7f8b3137-8694-4047-b127-23462d6c501e,eat.estate,available,14.99,,high,low,3,name.com,,,
@@ -766,7 +762,7 @@ eb02b5fc-f3ca-490a-942b-899aad909086,outing.estate,available,14.99,,high,low,6,n
 d9f8fc75-3e2f-4236-95a8-cb24249bd81d,heavyhearted.estate,available,14.99,,medium,low,13,name.com,,,
 108cb704-816e-4e50-8fae-4dfa7744b7e7,giveway.estate,available,14.99,,medium,low,8,name.com,,,
 067bb5bb-f7fa-4d84-838c-a769aa453e22,pussy.estate,available,14.99,,medium,low,5,name.com,,,
-2a475b4a-ecd1-4e71-b676-fa9a84f73ed4,MasterofScience.estate,available,14.99,,medium,low,17,name.com,,,
+2a475b4a-ecd1-4e71-b676-fa9a84f73ed4,masterofscience.estate,available,14.99,,medium,low,17,name.com,,,
 09dafc60-d76f-44ac-8138-6d4bd181590f,faded.estate,available,14.99,,medium,low,5,name.com,,,
 3415cae5-c20b-45ff-8e36-6a259a05c97f,allotted.estate,available,6.98,52.98,low,low,8,namecheap,,,
 83a82efc-9d14-48d1-835b-f3a1a95d0245,coffin.estate,available,14.99,,medium,low,6,name.com,,,
@@ -828,7 +824,7 @@ dc4625a2-0b7e-4959-8e52-c6c9a27ab3b4,xxxvi.estate,available,6.98,52.98,low,low,5
 a92c1fbd-66dd-4e8a-9245-b6c26d683af1,allergist.estate,available,14.99,,medium,low,9,name.com,,,
 b19a4171-a861-4c27-962b-9dcef08d5f2b,asocial.estate,available,6.98,52.98,low,low,7,namecheap,,,07/08/2026 04:36
 a1be460e-69b7-49bc-8950-a5571b9a6d8d,ape.estate,resell,,,medium,low,3,Dynadot Inc,16/05/2026 17:00,16/05/2027 17:00,
-2014bcb4-d169-488a-b021-96a7716c573a,effort.estate,available,6.98,52.98,medium,low,6,namecheap,,,15/09/2026 00:59
+2014bcb4-d169-488a-b021-96a7716c573a,effort.estate,available,15.99,38.99,medium,low,6,namesilo,,,19/09/2026 09:55
 5215c1f9-3d0a-49ba-a6a1-9e07d0ce0de6,exactly.estate,available,14.99,,high,low,7,name.com,,,
 72380ac5-ed2a-4171-9107-6e3cc7762af8,letterbox.estate,available,14.99,,medium,low,10,name.com,,,
 6a4aa74d-f873-43ab-a5da-8fce4fd28e08,dreadful.estate,available,14.99,,high,low,8,name.com,,,
@@ -843,7 +839,7 @@ cee9f6ed-3375-40cf-8669-f0452c76fe60,foreign.estate,available,,,high,low,7,,,,
 19ebeadc-45c4-4c17-a1f7-27a4d6d1974e,ruled.estate,available,14.99,,high,low,5,name.com,,,
 e05c441f-5088-458c-bc32-89c38b073f99,simpler.estate,available,14.99,,medium,low,7,name.com,,,
 7f69323e-c455-4163-b55d-80b3107a328d,rid.estate,available,14.99,,high,low,3,name.com,,,
-7e46acb6-e5c4-4e3d-b73b-864a121f7fd8,cream.estate,available,6.98,52.98,medium,low,5,namecheap,,,15/09/2026 10:29
+7e46acb6-e5c4-4e3d-b73b-864a121f7fd8,cream.estate,available,15.99,38.99,medium,low,5,namesilo,,,19/09/2026 04:58
 a411ddc8-782f-4d5a-91d6-77ef188d9787,walk.estate,available,14.99,,high,low,4,name.com,,,
 a0fabb59-d78d-4963-83d7-b6b8c01bdd57,fauna.estate,available,6.98,52.98,low,low,5,namecheap,,,
 6993d6e5-393d-4495-a498-d9bba48cdc54,ameboid.estate,available,6.98,52.98,low,low,7,namecheap,,,
@@ -869,7 +865,7 @@ bb48dba8-a285-470a-b544-2110a7408223,fiftyone.estate,available,6.98,52.98,low,lo
 7c2e5097-ad0a-4669-8a20-d7ec6b4a200b,mills.estate,available,14.99,,medium,low,5,name.com,,,
 5eb1f32d-f447-453e-b1e6-525c1792abc1,jasmine.estate,available,6.98,52.98,medium,low,7,namecheap,,,08/09/2026 14:04
 c82b4dc9-6522-410f-8ce7-4c5a16467e07,clxxv.estate,available,6.98,52.98,low,low,5,namecheap,,,
-5eb00dff-da91-49d6-b7f4-fb5083519f15,Flowers.estate,available,14.99,,high,medium,7,name.com,,,
+5eb00dff-da91-49d6-b7f4-fb5083519f15,flowers.estate,available,14.99,,high,medium,7,name.com,,,
 28e4d60f-4452-4ef1-8b7f-8f7c9361ce49,trivial.estate,available,14.99,,high,low,7,name.com,,,
 bf31ffc2-2c71-4853-8297-d4fc80f32d1e,antimonic.estate,available,6.98,52.98,low,low,9,namecheap,,,
 10dc7203-d084-4ffe-9c25-dbca55457032,coffeetablebook.estate,available,14.99,,high,low,17,name.com,,,
@@ -885,13 +881,13 @@ f48eba8e-2d55-4932-aaf7-1b2995ed1883,threadbare.estate,available,6.98,52.98,low,
 efdd97a0-8c33-4bea-b9f0-c23b9b8f271b,additive.estate,available,6.98,52.98,low,low,8,namecheap,,,
 be249a1d-a274-43fb-89d6-1bc049076925,inplace.estate,available,14.99,,medium,low,8,name.com,,,
 818dbd94-9b83-4542-892f-132192417cb0,airy.estate,available,6.98,52.98,medium,low,4,namecheap,,,
-3b120a11-49f6-4cfa-b43a-f27aff777920,Panasonic.estate,available,,,high,low,9,,,,
+3b120a11-49f6-4cfa-b43a-f27aff777920,panasonic.estate,available,,,high,low,9,,,,
 e2a998e3-4245-4d1d-873a-fc4e07327ec7,baptistic.estate,available,6.98,52.98,low,low,9,namecheap,,,08/08/2026 15:11
 4f8cb8e2-c034-4a06-8bc4-cafc92829f5f,oregon.estate,available,14.99,,medium,low,6,name.com,,,
 86d06bd0-638e-490c-8cc4-b57b38c36861,thenandnow.estate,available,14.99,,low,low,12,name.com,,,
 f20cd6bb-b27c-48b5-8f36-5123005a39ff,amused.estate,available,6.98,52.98,low,low,6,namecheap,,,
 935ae0ff-b8cc-4c7c-b602-df6389e895ec,fiber.estate,available,14.99,,high,low,5,name.com,,,
-28e09ccd-b11d-4ab7-9e2d-3d37e6afa042,Godlovesomeone.estate,available,14.99,,medium,low,16,name.com,,,
+28e09ccd-b11d-4ab7-9e2d-3d37e6afa042,godlovesomeone.estate,available,14.99,,medium,low,16,name.com,,,
 c4fee26a-92c6-4ca8-99c4-92eeb461172b,according.estate,available,6.98,52.98,low,low,9,namecheap,,,
 5fcc92ec-13c3-4d0e-bcb4-a22d33abbb2a,sixtyfive.estate,available,6.98,52.98,low,low,10,namecheap,,,
 a40e8491-4432-4bcd-b183-ec26efb89dbc,pubquiz.estate,available,14.99,,medium,low,8,name.com,,,
@@ -904,7 +900,7 @@ d375f2b7-c6b5-4372-ac22-495d876533d4,batrachian.estate,available,6.98,52.98,low,
 f35d8341-8908-4784-80dc-dba21a5130b6,orchestra.estate,available,14.99,,high,low,9,name.com,,,
 8d669119-9dc0-4539-828e-31615b2b6121,gettofirstbase.estate,available,14.99,,high,low,17,name.com,,,
 c35184bc-7823-4c84-bb22-19c7ce623689,takebystorm.estate,available,14.99,,low,low,13,name.com,,,
-ee9d1149-0a21-4b93-8371-953bc97711ae,RedSquare.estate,available,14.99,,low,low,10,name.com,,,
+ee9d1149-0a21-4b93-8371-953bc97711ae,redsquare.estate,available,14.99,,low,low,10,name.com,,,
 7b7d0240-931d-473e-8ad3-ba4f41217155,brandnew.estate,available,14.99,,high,low,9,name.com,,,
 83f63fd2-3640-4eb1-a3cf-702c7bbc776a,lifelesson.estate,available,14.99,,high,low,11,name.com,,,
 5efb1336-55c0-4b48-997a-a9e828c863f8,annelid.estate,available,6.98,52.98,low,low,7,namecheap,,,
@@ -913,7 +909,7 @@ f580ca7c-3ef4-4b19-9bd1-3b6cb20d5760,roger.estate,available,14.99,,high,low,5,na
 5c3ca3a6-bd26-41c4-8cba-5aefb52880be,gather.estate,available,14.99,50.99,high,low,6,name.com,,,
 f6e5a9a8-ba0a-4338-b40c-76b8b13fafc4,feb.estate,available,14.99,,high,low,3,name.com,,,
 f61c34e6-1a3a-495a-b046-9b86c09d6373,setabout.estate,available,14.99,,low,low,9,name.com,,,
-14271416-dbcc-48ab-96a2-3006628527be,StFrancis.estate,available,14.99,,medium,low,11,name.com,,,
+14271416-dbcc-48ab-96a2-3006628527be,stfrancis.estate,available,14.99,,medium,low,11,name.com,,,
 e43ab991-1bf2-4eed-90de-a45982af0604,channukah.estate,available,14.99,,medium,low,9,name.com,,,
 57d42029-8603-4b25-ae5c-3acdcdaecff1,boer.estate,available,6.98,52.98,low,low,4,namecheap,,,
 f76e1e9d-1c21-4c9e-8638-aca9b83ff59d,generalpractice.estate,available,14.99,,high,low,16,name.com,,,
@@ -927,7 +923,7 @@ e5871f7d-1b9f-4c4b-9fd2-4f3f3b36954d,confusing.estate,available,14.99,50.99,medi
 aac75884-94be-4207-8fb6-de5d1a24e07c,limitation.estate,available,14.99,,medium,low,10,name.com,,,
 ee5f9bb8-c3d9-4cff-9bcb-22733a19f264,deserted.estate,available,6.98,52.98,low,low,8,namecheap,,,
 658d1753-8b23-486b-b437-30bf1e09ca34,autistic.estate,available,6.98,52.98,low,low,8,namecheap,,,07/08/2026 19:22
-9930ed4f-acf3-4336-bef4-50fdd86dc0a4,MexicoCity.estate,available,14.99,,medium,low,11,name.com,,,
+9930ed4f-acf3-4336-bef4-50fdd86dc0a4,mexicocity.estate,available,14.99,,medium,low,11,name.com,,,
 b910880d-167b-4fa0-b271-8d872028b1a6,hungry.estate,available,14.99,,high,low,6,name.com,,,
 8c43bde5-0b83-403b-b8f1-77910f93430b,aweigh.estate,available,6.98,52.98,low,low,6,namecheap,,,07/08/2026 14:29
 22a1b51e-2661-4b49-b58b-822ceb958cc9,getthepoint.estate,available,14.99,,high,low,13,name.com,,,
@@ -948,7 +944,7 @@ d423f574-76ac-4e5e-874e-6ad787525717,sofarsogood.estate,available,14.99,,medium,
 9736813e-37ee-464f-938c-c0ed704c3a5b,perspective.estate,available,14.99,,high,low,11,name.com,,,
 ae830263-439c-4257-a14e-9085535abb8d,lowering.estate,available,14.99,,high,low,8,name.com,,,
 c444a63a-820a-41c6-bf36-7fbef59d7254,contingent.estate,available,14.99,50.99,high,low,10,name.com,,,
-b0783743-545d-4f6c-adae-a660c8a6a1ae,Xrated.estate,available,14.99,,low,low,7,name.com,,,
+b0783743-545d-4f6c-adae-a660c8a6a1ae,xrated.estate,available,14.99,,low,low,7,name.com,,,
 c3af4237-a2a8-4455-9828-b21fa901bcd5,magical.estate,available,14.99,,high,low,7,name.com,,,
 ece18b35-d89a-45be-be3b-60fe931ca2b3,wiring.estate,available,14.99,,high,low,6,name.com,,,
 6eddc400-a597-4d15-9d64-eaf6fda0632f,seats.estate,available,14.99,,high,low,5,name.com,,,
@@ -980,7 +976,7 @@ a1eab69c-281a-4c9b-b64c-b221f4aa7892,scan.estate,available,14.99,,high,low,4,nam
 e362766a-a227-4a9f-bb7a-932350da23e1,psychologist.estate,available,14.99,,medium,low,12,name.com,,,
 7068e2b9-00ba-4d3a-a8f7-4336d4f0adaf,wintertime.estate,available,14.99,,medium,low,11,name.com,,,
 69698dfe-ab39-4532-8c05-3f1c6ace5473,soupy.estate,available,6.98,52.98,low,low,5,namecheap,,,09/08/2026 01:20
-f0963cac-8257-4a8f-b869-19c9344d97d4,devices.estate,available,14.99,,high,low,7,name.com,,,
+f0963cac-8257-4a8f-b869-19c9344d97d4,devices.estate,available,15.99,38.99,medium,low,7,namesilo,,,19/09/2026 10:40
 132efbcf-edf8-4a1c-991a-adf9da8ee733,enlivening.estate,available,6.98,52.98,low,low,10,namecheap,,,
 6ef39a56-6998-4129-b1e8-84ea2ce62e09,aleuronic.estate,available,6.98,52.98,low,low,9,namecheap,,,
 c0abbaba-1413-473d-9076-131c2c8dedf5,discovered.estate,available,14.99,,medium,low,10,name.com,,,
@@ -999,3 +995,7 @@ d0978473-1325-41af-8e7d-4214fea6342e,gas.estate,resell,,,high,low,3,"GoDaddy.com
 0d6dde1a-e5ab-41af-aa09-85ca832b25f3,fiercely.estate,available,14.99,,medium,low,8,name.com,,,
 c3692e29-14a6-48da-b099-d882bba1e270,shaper.estate,available,14.99,,high,low,6,name.com,,,
 974e3058-1d22-45de-80cc-990210bc34e1,smell.estate,available,14.99,,high,low,5,name.com,,,
+97efe926-0209-44dc-897f-cb77555e89e5,unused.estate,available,14.99,,medium,low,6,name.com,,,
+f1317e87-a593-4822-98f1-622ff57c8c12,understand.estate,available,14.99,,high,low,10,name.com,,,
+5a432c26-5cf1-48d9-aa79-ad6454f3a69b,conduction.estate,available,14.99,,high,low,10,name.com,,,
+e7d0e50a-e41b-41cc-9250-09cfb812d3cf,invaluable.estate,available,14.99,,high,low,10,name.com,,,
