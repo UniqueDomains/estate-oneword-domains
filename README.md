@@ -1,10 +1,10 @@
-# Available .ESTATE One-Word Domains (29,204)
+# Available .ESTATE One-Word Domains (30,911)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-29%2C204%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-30%2C911%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .estate one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **29,204 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **30,911 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 29,204 domains · **Median ask:** $11.26 · **High-demand under $2,500:** 2
+**Public extract:** 1,000 rows · **Live catalog:** 30,911 domains · **Median ask:** $11.38 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-09-21
+**Last updated:** 2026-09-23
 **Canonical page:** `https://unique.domains/domains/tld/estate`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| christmas.estate | available | $14.99    | —             | high           | low    | 9      | name.com         |
-| come.estate      | available | $14.99    | —             | high           | low    | 4      | name.com         |
-| action.estate    | available | $14.99    | —             | high           | medium | 6      | name.com         |
-| abo.estate       | available | $6.98     | $52.98        | low            | low    | 3      | namecheap        |
-| ape.estate       | resell    | —         | —             | medium         | low    | 3      | Dynadot Inc      |
-| fix.estate       | premium   | $500      | —             | medium         | low    | 3      | name.com         |
-| azo.estate       | available | $6.98     | $52.98        | low            | low    | 3      | namecheap        |
-| call.estate      | resell    | —         | —             | high           | low    | 4      | Porkbun LLC      |
-| pink.estate      | premium   | $242      | $242          | high           | low    | 4      | namesilo         |
-| bus.estate       | available | $14.99    | —             | high           | low    | 3      | name.com         |
-| free.estate      | resell    | —         | —             | high           | medium | 4      | Spaceship, Inc.  |
-| group.estate     | premium   | $128.70   | $128.70       | high           | low    | 5      | namecheap        |
-| but.estate       | available | $14.99    | —             | high           | low    | 3      | name.com         |
-| lunar.estate     | resell    | —         | —             | high           | low    | 5      | Porkbun LLC      |
-| fashion.estate   | premium   | $118.80   | $118.80       | high           | medium | 7      | namesilo         |
-| cry.estate       | available | $14.99    | —             | high           | low    | 3      | name.com         |
-| super.estate     | resell    | —         | —             | medium         | medium | 5      | 1API GmbH        |
-| hangout.estate   | premium   | $118.80   | $118.80       | high           | low    | 8      | namesilo         |
-| eat.estate       | available | $14.99    | —             | high           | low    | 3      | name.com         |
-| total.estate     | resell    | —         | —             | high           | low    | 5      | Sav.com, LLC - 3 |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
+| abo.estate       | available | $6.98     | $52.98        | low            | low    | 3      | namecheap         |
+| ape.estate       | resell    | —         | —             | medium         | low    | 3      | Dynadot Inc       |
+| fix.estate       | premium   | $500      | —             | medium         | low    | 3      | name.com          |
+| azo.estate       | available | $6.98     | $52.98        | low            | low    | 3      | namecheap         |
+| call.estate      | resell    | —         | —             | high           | low    | 4      | Porkbun LLC       |
+| pink.estate      | premium   | $242      | $242          | high           | low    | 4      | namesilo          |
+| bus.estate       | available | $14.99    | —             | high           | low    | 3      | name.com          |
+| free.estate      | resell    | —         | —             | high           | medium | 4      | Spaceship, Inc.   |
+| group.estate     | premium   | $128.70   | $128.70       | high           | low    | 5      | namecheap         |
+| but.estate       | available | $14.99    | —             | high           | low    | 3      | name.com          |
+| lunar.estate     | resell    | —         | —             | high           | low    | 5      | Porkbun LLC       |
+| fashion.estate   | premium   | $118.80   | $118.80       | high           | medium | 7      | namesilo          |
+| cry.estate       | available | $14.99    | —             | high           | low    | 3      | name.com          |
+| super.estate     | resell    | —         | —             | medium         | medium | 5      | 1API GmbH         |
+| hangout.estate   | premium   | $118.80   | $118.80       | high           | low    | 8      | namesilo          |
+| eat.estate       | available | $14.99    | —             | high           | low    | 3      | name.com          |
+| total.estate     | resell    | —         | —             | medium         | low    | 5      | Sav.com, LLC - 3  |
+| corporate.estate | premium   | $118.80   | $118.80       | high           | low    | 9      | namesilo          |
+| fan.estate       | available | $14.99    | —             | high           | low    | 3      | name.com          |
+| beyond.estate    | resell    | —         | —             | high           | medium | 6      | Sav.com, LLC - 49 |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 29,204 live domains                        |
+| 1,000-row public sample | 30,911 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 2 high-demand names under $2,500           |
+| Basic exported fields   | 1 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ESTATE One-Word Domains*. Version 2026-09-21. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ESTATE One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
