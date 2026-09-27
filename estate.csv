@@ -1,7 +1,7 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
-af08033a-aac7-4646-bd01-619a32469423,eclectic.estate,available,6.98,52.98,high,low,8,namecheap,,,14/08/2026 23:43
+af08033a-aac7-4646-bd01-619a32469423,eclectic.estate,available,15.99,38.99,high,low,8,namesilo,,,27/09/2026 06:58
 f105ff9f-e9a3-48c7-9d92-c54b89436be5,overladen.estate,available,6.98,52.98,medium,low,9,namecheap,,,04/09/2026 20:51
-c80e3508-dd69-4cd3-9a76-d3f29bb58786,movies.estate,available,14.99,,high,low,6,name.com,,,
+c80e3508-dd69-4cd3-9a76-d3f29bb58786,movies.estate,available,15.99,38.99,high,low,6,namesilo,,,27/09/2026 06:59
 6e460987-6d23-4b25-aa7c-0ac2f2f59349,badge.estate,available,6.98,52.98,high,low,5,namecheap,,,19/09/2026 15:56
 59c34e9b-6b7e-43bf-b2a3-61cc9abb6683,excused.estate,available,6.98,52.98,medium,low,7,namecheap,,,17/08/2026 16:44
 a7515fab-b2cd-41ef-a531-921aa78c1be6,laminar.estate,available,6.98,52.98,high,low,7,namecheap,,,22/08/2026 19:07
@@ -120,6 +120,7 @@ e4c40a80-6672-4bb3-92be-6b19e02c48ce,hyaline.estate,available,6.98,52.98,medium,
 030315f2-3ebd-4293-b869-0c30401abf62,dickey.estate,available,6.98,52.98,medium,low,6,namecheap,,,14/08/2026 06:29
 2a197428-cb88-4bc3-b50d-f380582ca98d,wounded.estate,available,6.98,52.98,high,low,7,namecheap,,,25/09/2026 06:51
 f6f41e1a-dd04-4cb8-ab0e-f1e4a95f98e9,nightmare.estate,available,14.99,,high,low,9,name.com,,,
+fc074de4-cae1-46e9-9c4d-4764ee3da0db,crashed.estate,available,15.99,38.99,low,low,7,namesilo,,,27/09/2026 11:29
 f45a4917-b86b-4a74-b349-12019606749f,bettong.estate,available,15.99,38.99,medium,low,7,namesilo,,,23/09/2026 11:46
 b6226349-06ad-4b04-bb31-7d259965cd01,worn.estate,available,15.99,38.99,high,low,4,namesilo,,,23/09/2026 12:58
 8be5d37e-06eb-495a-98cd-f2715d9c293b,bezel.estate,available,15.99,38.99,medium,low,5,namesilo,,,23/09/2026 12:19
@@ -128,9 +129,10 @@ a323a99f-8052-46d3-8a38-9b9453227fb5,browse.estate,available,14.99,,high,low,6,n
 d4c85a25-260b-45ea-aac7-df75c4e201f1,earthbound.estate,available,6.98,52.98,high,low,10,namecheap,,,14/08/2026 22:37
 548c9c65-7ac9-430b-b396-988be66c54f4,blamed.estate,available,6.98,52.98,medium,low,6,namecheap,,,10/08/2026 12:39
 dac49fb1-b4a5-4d7e-803f-bf769cea2297,quizzical.estate,available,6.98,52.98,medium,low,9,namecheap,,,09/09/2026 08:39
+e5065503-0c8b-4e80-b9e3-cecffd1b1c41,finishing.estate,available,6.98,52.98,high,low,9,namecheap,,,27/09/2026 03:58
+3a14e837-bb0f-4711-847d-8e2a28ebc163,edna.estate,available,15.99,38.99,high,low,4,namesilo,,,27/09/2026 01:34
 1db785bc-39a7-4594-a099-786bf1b365ab,mandatory.estate,available,6.98,52.98,high,low,9,namecheap,,,23/09/2026 18:22
 776b8b53-f242-4281-93e8-702eb148492f,storm.estate,available,15.99,38.99,high,medium,5,namesilo,,,25/09/2026 10:14
-36356e48-9be4-4625-abae-2d580bfa08a3,dragon.estate,resell,,,high,medium,6,"Sav.com, LLC - 28",10/10/2025 15:16,10/10/2026 15:16,
 6cd5ed5a-1bdd-4ff9-bac5-e1880182741d,semiliquid.estate,available,6.98,52.98,medium,low,10,namecheap,,,10/09/2026 03:07
 d3478b03-c96b-4c91-83a9-c460037515d4,lutheran.estate,available,6.98,52.98,high,low,8,namecheap,,,24/08/2026 12:23
 69864ae9-938d-4ef8-8c79-c331348f1e25,esthetical.estate,available,6.98,52.98,high,low,10,namecheap,,,21/09/2026 21:22
@@ -187,7 +189,7 @@ d7f457c8-1aef-48eb-8c97-edec5c9ab385,bacillus.estate,available,15.99,38.99,mediu
 b0a02bb9-8f5e-4397-98ea-7d0070e0072c,devoid.estate,available,6.98,52.98,medium,low,6,namecheap,,,14/08/2026 05:13
 3e5d3b8a-ab41-4f4f-9ecc-8824939c4f58,fiedler.estate,available,15.99,38.99,high,low,7,namesilo,,,20/09/2026 10:50
 1d1c459e-dfeb-4a19-a3ac-d4d4911d4b56,mackay.estate,available,15.99,38.99,medium,low,6,namesilo,,,25/09/2026 16:20
-95b0cd5d-b29e-4c38-aaf9-ec024cf6b9b8,repeated.estate,available,14.99,,high,low,8,name.com,,,
+95b0cd5d-b29e-4c38-aaf9-ec024cf6b9b8,repeated.estate,available,15.99,38.99,high,low,8,namesilo,,,27/09/2026 11:04
 8dcbaeb5-0cb8-4888-9060-1c093e9ffab7,attester.estate,available,15.99,38.99,medium,low,8,namesilo,,,21/09/2026 01:41
 a57a6469-3025-4223-ac4a-5d576169390c,stoically.estate,available,15.99,38.99,medium,low,9,namesilo,,,16/09/2026 07:14
 0f67b3fc-0ffe-4f47-911c-b7fd3bc4cdec,recovery.estate,available,6.98,52.98,high,low,8,namecheap,,,08/09/2026 13:21
@@ -206,9 +208,10 @@ f566472b-9652-4603-978c-6af7b4b49e00,westcott.estate,available,14.99,,medium,low
 89507979-8530-44b5-9d08-19930c132e93,breathless.estate,available,6.98,52.98,high,low,10,namecheap,,,11/08/2026 03:23
 eaa819ac-d057-4d1c-bb4d-458c39d1684f,sorted.estate,available,6.98,52.98,high,low,6,namecheap,,,20/08/2026 20:24
 a6a53860-c71b-48c6-b787-6433492c5a61,paid.estate,available,6.98,52.98,high,low,4,namecheap,,,18/08/2026 19:32
+826cc441-ccc0-4967-a455-1642bea162d4,directions.estate,available,15.99,38.99,high,low,10,namesilo,,,27/09/2026 09:16
 0bdbd78c-a012-4596-afb2-b3c2d0bc399c,lucius.estate,available,15.99,38.99,high,low,6,namesilo,,,25/09/2026 15:11
 d41406a3-71fb-49e8-a0fe-1baec3588b5c,hostility.estate,available,15.99,38.99,medium,low,9,namesilo,,,19/09/2026 12:25
-8b911f05-b22a-4123-b423-8ab9dd703f05,potential.estate,available,14.99,,high,low,9,name.com,,,
+8b911f05-b22a-4123-b423-8ab9dd703f05,potential.estate,available,15.99,38.99,high,low,9,namesilo,,,27/09/2026 04:46
 357dc6b5-8db7-42da-93f1-c2bc43b844ed,untried.estate,available,6.98,52.98,medium,low,7,namecheap,,,12/09/2026 21:15
 1cd697d8-79ad-4374-89bb-8492e29a9c5a,berserk.estate,available,6.98,52.98,medium,low,7,namecheap,,,
 555c1660-33cc-44df-bf19-ba5b8265cd6a,moulding.estate,available,15.99,38.99,medium,low,8,namesilo,,,24/09/2026 15:25
@@ -244,6 +247,7 @@ c0c76ae1-3336-4d74-8ee7-e33eed3c90fe,technical.estate,available,6.98,52.98,high,
 1b12770f-aed5-49ed-995d-bbd5ed099bec,apocalypse.estate,available,6.98,52.98,medium,low,10,namecheap,,,19/09/2026 18:10
 544f5770-e13c-4e09-8a52-6e0d12916487,younger.estate,available,6.98,52.98,high,low,7,namecheap,,,25/09/2026 12:10
 8d1bf9fa-773d-4c38-a913-31a7df1e01c1,homey.estate,available,6.98,52.98,high,low,5,namecheap,,,21/08/2026 11:06
+9717fa48-8290-43df-a773-60abd40acfb7,creatures.estate,available,15.99,38.99,high,low,9,namesilo,,,27/09/2026 03:06
 18de51b4-8d29-4ccf-9859-e2b2ff611385,blackheart.estate,available,15.99,38.99,medium,low,10,namesilo,,,24/09/2026 02:49
 a96fcaf0-1bb2-4caf-8a61-8e605ed3cf8f,semiotical.estate,available,6.98,52.98,medium,low,10,namecheap,,,10/09/2026 03:15
 0cf1edbd-4567-41e1-b0dd-9c17d4b7c85a,engaging.estate,available,6.98,52.98,high,low,8,namecheap,,,17/08/2026 07:36
@@ -323,13 +327,14 @@ a2c6f18b-32a3-497f-8b0f-564da6da7fd2,ugly.estate,available,15.99,38.99,high,low,
 943e4909-a24a-4ae8-bde9-48440891e162,chetah.estate,available,15.99,38.99,medium,low,6,namesilo,,,17/09/2026 01:35
 d4eb2c00-4ef9-4418-81db-4c825f6d382e,workings.estate,available,14.99,,high,low,8,name.com,,,
 395cb3ef-8368-4c51-adcd-6074ef25b26a,humanity.estate,available,14.99,,high,low,8,name.com,,,
+ddcb0c09-2d80-47b8-bf57-58a2db81770b,lack.estate,available,15.99,38.99,high,low,4,namesilo,,,27/09/2026 03:43
 8acab04e-3e14-4b78-884a-648e4c7de3f7,uncoupled.estate,available,6.98,52.98,medium,low,9,namecheap,,,12/09/2026 06:17
 46d01818-3771-44ae-bdfd-e573bc6707d7,outlined.estate,available,6.98,52.98,high,low,8,namecheap,,,04/09/2026 19:31
 dd014c17-fe63-478d-9c03-24682ecc9fa4,bandung.estate,available,15.99,38.99,high,low,7,namesilo,,,22/09/2026 01:32
 9af195ad-2886-4555-b049-062dd10dab3e,flack.estate,available,6.98,52.98,medium,low,5,namecheap,,,
 972fae8b-2d00-4d68-a5c7-f65ce5d85ba3,chatterer.estate,available,15.99,38.99,high,low,9,namesilo,,,21/09/2026 12:24
 a382d01e-5100-46f6-bf27-a5503f16e34b,tracks.estate,available,15.99,38.99,high,low,6,namesilo,,,17/09/2026 16:05
-a1c02489-e58e-40f4-bd28-e601a7e22a36,secluded.estate,available,14.99,,high,low,8,name.com,,,
+a1c02489-e58e-40f4-bd28-e601a7e22a36,secluded.estate,available,6.98,52.98,high,low,8,namecheap,,,27/09/2026 06:24
 191e084c-bb5f-43b7-bb48-1bf3e4ab6b0e,summery.estate,available,6.98,52.98,high,low,7,namecheap,,,11/09/2026 01:38
 801d56a0-d83a-4dbc-beb7-db2bdda16cc1,grandmothers.estate,available,6.98,52.98,medium,low,12,namecheap,,,20/09/2026 18:06
 7b90f9bb-fc22-4c04-a7d3-e0d958e17ca8,connatural.estate,available,6.98,52.98,medium,low,10,namecheap,,,12/08/2026 22:18
@@ -342,8 +347,10 @@ a1c02489-e58e-40f4-bd28-e601a7e22a36,secluded.estate,available,14.99,,high,low,8
 c223d73b-bd87-4dbe-a46d-5642086a3083,exorbitant.estate,available,6.98,52.98,medium,low,10,namecheap,,,17/08/2026 17:36
 57868556-b491-4096-9e30-eecc4d6676f8,shrub.estate,available,6.98,52.98,high,low,5,namecheap,,,23/09/2026 11:56
 49df5f04-c354-4afe-83ba-58c9a9c1d6cf,obtainable.estate,available,6.98,52.98,high,low,10,namecheap,,,18/08/2026 23:06
+c847956e-b08f-4625-bbf7-56643decbd91,mcintosh.estate,available,15.99,38.99,high,low,8,namesilo,,,27/09/2026 04:44
 f28954b5-a484-4cdd-89ce-d998fc37feb2,ariana.estate,available,15.99,38.99,high,low,6,namesilo,,,20/09/2026 05:10
 cb48e35b-dcda-495c-a851-0e68d22c7302,backing.estate,available,15.99,38.99,high,low,7,namesilo,,,21/09/2026 15:39
+b10baa99-627d-4802-8bf4-ddfbc4e099f2,proposal.estate,available,14.99,50.99,high,low,8,name.com,,,27/09/2026 04:41
 5380738c-52b3-4d58-93a6-6f98d27d20e6,snappy.estate,available,6.98,52.98,high,low,6,namecheap,,,11/08/2026 04:32
 99c9f2c7-573f-4835-b6ce-6fc4db69c51a,comer.estate,available,15.99,38.99,medium,low,5,namesilo,,,20/09/2026 09:17
 e808e339-94c2-4a55-9425-4b7a475afc78,visualize.estate,available,6.98,52.98,high,low,9,namecheap,,,24/09/2026 16:39
@@ -383,7 +390,7 @@ b56e279a-6444-42d0-a7ae-a7f3b7dcf77c,unpressed.estate,available,6.98,52.98,mediu
 3dbaab36-e0d3-45e3-89ff-9713eecb8f84,intensive.estate,available,15.99,38.99,high,low,9,namesilo,,,25/09/2026 09:57
 d6d706f7-c07a-40fc-ac72-d5cff0bfe435,screwball.estate,available,6.98,52.98,medium,low,9,namecheap,,,20/08/2026 22:30
 342adb51-0d87-4c52-8294-461d84b276e2,sugary.estate,available,15.99,38.99,high,low,6,namesilo,,,19/09/2026 16:54
-945260a9-91b0-4b18-b743-3159fa3d7149,washington.estate,resell,,,high,low,10,Porkbun LLC,23/01/2021 17:00,23/01/2026 17:00,
+945260a9-91b0-4b18-b743-3159fa3d7149,washington.estate,resell,,,high,low,10,Edomains LLC,23/01/2021 17:00,23/01/2027 17:00,26/09/2026 10:04
 c0c7118e-7d95-4bde-a4c4-4e4a74117520,rachel.estate,available,15.99,38.99,high,low,6,namesilo,,,25/09/2026 10:13
 e4fe06c3-4705-4920-8fde-a7106e2b7f43,widely.estate,available,14.99,,high,low,6,name.com,,,
 616bb4fe-8b1b-4a61-a21d-06daf7e66c96,ambystoma.estate,available,15.99,38.99,medium,low,9,namesilo,,,18/09/2026 17:36
@@ -429,7 +436,8 @@ aa869ce5-68c3-4d06-a286-f73fb557c2a9,gaily.estate,available,6.98,52.98,medium,lo
 ad5eb0de-ae5d-4f03-8f42-cce0de4442bc,crusted.estate,available,6.98,52.98,medium,low,7,namecheap,,,13/08/2026 09:22
 9f6e419d-0850-4a17-bee5-ff68d85adaa2,bagging.estate,available,6.98,52.98,medium,low,7,namecheap,,,21/09/2026 18:06
 27b49df3-cafa-48e6-9435-ab00bf09496e,chasten.estate,available,6.98,52.98,medium,low,7,namecheap,,,11/09/2026 07:42
-5137d1a9-c619-4cf7-aa1e-ccb39291f20c,large.estate,resell,,,high,low,5,"GoDaddy.com, LLC",13/02/2014 18:12,13/02/2027 18:12,23/09/2026 09:13
+283cdecb-20d5-416a-9161-753d2bf3741e,ringing.estate,available,6.98,52.98,high,low,7,namecheap,,,27/09/2026 05:00
+5137d1a9-c619-4cf7-aa1e-ccb39291f20c,large.estate,resell,,,high,low,5,"GoDaddy.com, LLC",13/02/2014 18:12,13/02/2027 18:12,26/09/2026 07:08
 608d3dd8-4331-4b9e-a2db-71c60866de92,attracted.estate,available,6.98,52.98,high,low,9,namecheap,,,26/09/2026 03:10
 9aa08ffe-ec7e-4d48-80a2-4ab76faf92c2,buffet.estate,available,15.99,38.99,high,low,6,namesilo,,,19/09/2026 17:05
 f8611661-b1f7-48f8-90c5-d1d8fe161396,kurdish.estate,available,6.98,52.98,high,low,7,namecheap,,,22/08/2026 17:04
@@ -443,6 +451,7 @@ a77ece9d-b34a-4985-b043-c6ee53dbb465,produced.estate,available,6.98,52.98,medium
 b565c69a-f18f-4d9a-bc64-13c5de7e88f7,force.estate,available,15.99,38.99,high,low,5,namesilo,,,24/09/2026 23:13
 bd12ff76-c6ae-4281-83fa-23895fc11b85,decayable.estate,available,6.98,52.98,low,low,9,namecheap,,,13/08/2026 20:54
 2ad4e2ba-6bd5-4075-86d0-07cb27e05e2f,xiv.estate,available,15.99,38.99,high,low,3,namesilo,,,21/09/2026 11:42
+98171a1a-0b11-43cd-848b-4f3163c9a2de,fathers.estate,available,15.99,38.99,medium,low,7,namesilo,,,27/09/2026 09:58
 3a6d262b-fa80-4910-bfaa-035bcac9f45f,tantric.estate,available,6.98,52.98,high,low,7,namecheap,,,11/09/2026 08:05
 c2ce3279-9dc9-405a-aab6-9cdf9592dab2,stretches.estate,available,15.99,38.99,medium,low,9,namesilo,,,18/09/2026 07:56
 31f330dc-9160-48b9-8bdc-ba4fadf489f3,moulds.estate,available,15.99,38.99,medium,low,6,namesilo,,,20/09/2026 13:57
@@ -479,6 +488,7 @@ b9211fb6-ab36-4ed5-aa45-88ddcf76195c,coulomb.estate,available,15.99,38.99,medium
 629965c9-1e04-494a-9a7a-ad070e2e7985,undefined.estate,available,6.98,52.98,high,low,9,namecheap,,,12/09/2026 07:13
 52ccf4e0-0268-4866-a552-8a409f180ece,outmost.estate,available,6.98,52.98,high,low,7,namecheap,,,04/09/2026 19:19
 e96434d0-a89b-4842-aa1e-a09587a5c71c,plural.estate,available,6.98,52.98,high,low,6,namecheap,,,08/09/2026 22:02
+d1d17978-4604-4673-9839-c2f47855aca8,somerville.estate,available,6.98,52.98,medium,low,10,namecheap,,,27/09/2026 01:44
 4125aa52-a92e-44ba-9c49-1888a1d296c1,minus.estate,available,6.98,52.98,high,low,5,namecheap,,,25/08/2026 00:55
 9a2a2550-7dcd-425b-a401-6d20c10dfd88,propertied.estate,available,6.98,52.98,high,low,10,namecheap,,,09/09/2026 03:34
 9b7f4a11-29d1-4432-8de9-0b80c0e4d1e2,nightfall.estate,available,6.98,52.98,high,low,9,namecheap,,,11/09/2026 21:44
@@ -488,7 +498,7 @@ cfeca70e-294f-4cbf-8fd5-09389803e6b1,utmost.estate,available,15.99,38.99,high,lo
 7433c4f5-3486-4999-ad2e-41ffb7551066,machinist.estate,available,6.98,52.98,high,low,9,namecheap,,,19/09/2026 17:14
 14309a4c-955b-43a4-8a1b-304579343a15,aerology.estate,available,15.99,38.99,medium,low,8,namesilo,,,17/09/2026 13:08
 7aab7b8d-0979-45d3-a2af-03b71b6d3c43,undoubtedly.estate,available,14.99,,high,low,11,name.com,,,
-02db7b3a-fa53-4b34-83f3-e99617052ab9,fin.estate,resell,,,high,low,3,"Spaceship, Inc.",29/04/2024 15:15,29/04/2027 15:15,
+02db7b3a-fa53-4b34-83f3-e99617052ab9,fin.estate,resell,,,high,low,3,"Spaceship, Inc.",29/04/2024 15:15,29/04/2027 15:15,26/09/2026 06:05
 ad438dd8-eac4-4550-8bdc-945417b64eca,unemployed.estate,available,14.99,,medium,low,10,name.com,,,
 0a1b120c-aae9-437d-8137-301b27fc8ec9,misfortune.estate,available,15.99,38.99,medium,low,10,namesilo,,,21/09/2026 16:43
 4ff3f165-170b-420b-b4d1-a120ae97c269,rollicking.estate,available,6.98,52.98,medium,low,10,namecheap,,,12/08/2026 18:08
@@ -539,6 +549,7 @@ b19f2a52-38eb-4685-8969-9dd515b84b6d,silly.estate,available,15.99,38.99,high,low
 1e3bdb86-f664-49e5-a2c0-27b8ecc7e473,previous.estate,available,14.99,,high,low,8,name.com,,,
 9277d4bb-ed02-4230-8486-7eddaf0b95ca,dominion.estate,available,6.98,52.98,high,low,8,namecheap,,,24/09/2026 23:09
 a6304bdb-8494-469b-a2b2-8199c72df1ec,chem.estate,available,15.99,38.99,high,low,4,namesilo,,,18/09/2026 00:59
+57e35172-dace-4ccc-a434-fd67bed4d644,meetings.estate,available,15.99,38.99,medium,low,8,namesilo,,,27/09/2026 10:46
 3421c93e-0e56-4edb-a78a-f8121850eb7e,uncut.estate,available,6.98,52.98,high,low,5,namecheap,,,12/09/2026 06:52
 d677ee67-d708-442f-a051-dd65a70d6fbb,unbecoming.estate,available,6.98,52.98,high,low,10,namecheap,,,22/08/2026 02:19
 1bc1ddbd-bd02-496c-bd1b-79ef17ecad6c,spiraea.estate,available,15.99,38.99,medium,low,7,namesilo,,,20/09/2026 17:28
@@ -567,6 +578,7 @@ aa70bca8-9c03-4020-b08a-848c0e9aac3c,objection.estate,available,15.99,38.99,high
 5e37ac5e-5a75-4526-9bbf-5f6cd799421e,decolour.estate,available,6.98,52.98,medium,low,8,namecheap,,,24/09/2026 05:11
 4b96c439-cf78-4f11-aae1-10602ea20ef5,macbook.estate,available,,,high,high,7,,,,
 4c4d6211-c822-4393-bf04-19e315ab6854,cycloid.estate,available,14.99,50.99,medium,low,7,name.com,,,13/08/2026 13:37
+87965cef-eb6c-4fce-a297-5c87a37ff534,jaw.estate,available,15.99,38.99,high,low,3,namesilo,,,27/09/2026 03:31
 3a2c7144-7398-4359-92e1-a6b5b3969bb0,affair.estate,available,15.99,38.99,high,low,6,namesilo,,,17/09/2026 13:59
 b533a091-3a83-461d-81c8-b2d62ff348a9,boldface.estate,available,6.98,52.98,high,low,8,namecheap,,,10/08/2026 17:43
 573fffb6-6d5d-46e9-a083-222fb77672e9,reasonable.estate,available,15.99,38.99,high,low,10,namesilo,,,24/09/2026 16:20
@@ -581,6 +593,7 @@ d33cca65-65d6-4f53-aac5-557ef45b12e7,wryly.estate,available,15.99,38.99,medium,l
 b5b08cf7-089b-448f-85c0-5268a0fbe88c,unspoken.estate,available,6.98,52.98,high,low,8,namecheap,,,03/09/2026 11:51
 7b7481f4-8d13-46c1-99ca-0c5b76cd215b,scare.estate,available,15.99,38.99,high,low,5,namesilo,,,17/09/2026 14:51
 04fb585e-1a2a-416d-99a8-9062cc6b1ad7,conformist.estate,available,6.98,52.98,high,low,10,namecheap,,,12/08/2026 21:13
+86506ffe-7ebe-418a-8804-8654da13a841,locked.estate,available,15.99,38.99,high,low,6,namesilo,,,27/09/2026 02:54
 9219d9cb-9315-4c72-9609-024ed23f77b3,brag.estate,available,14.99,50.99,high,low,4,name.com,,,23/09/2026 00:49
 04dd745c-ee2f-47a3-b85b-9a484c51832e,citric.estate,available,6.98,52.98,high,low,6,namecheap,,,12/08/2026 08:54
 947658fe-8448-4f6b-88c2-67a3b0588152,asparagus.estate,available,6.98,52.98,high,low,9,namecheap,,,20/09/2026 14:40
@@ -613,7 +626,7 @@ bcdb2d50-8a01-4a71-8e84-589671160250,rustless.estate,available,6.98,52.98,medium
 1fcb8b6d-d1a7-43a3-b4ee-3f5ec8d9b7fb,makeovers.estate,available,15.99,38.99,medium,low,9,namesilo,,,21/09/2026 08:55
 114777fb-ed60-4baa-8b9f-785b3c1de2b5,retina.estate,available,14.99,,high,low,6,name.com,,,
 93584e5e-cc40-4ff3-ad52-ac886fdb712d,clifford.estate,available,6.98,52.98,high,low,8,namecheap,,,25/09/2026 14:06
-1e97d269-222d-4114-ae1b-a2f5132737e0,consulting.estate,resell,,,high,low,10,"Gransy, s.r.o.",21/11/2025 11:02,21/11/2026 11:02,
+1e97d269-222d-4114-ae1b-a2f5132737e0,consulting.estate,resell,,,high,low,10,"Gransy, s.r.o.",21/11/2025 11:02,21/11/2026 11:02,26/09/2026 05:13
 dc4e5551-b2f0-4b91-abf5-d19e6782d4e1,concourse.estate,available,14.99,,high,low,9,name.com,,,
 f51b2c78-e500-4683-9f0e-d6335cecaf3e,theban.estate,available,6.98,52.98,high,low,6,namecheap,,,11/09/2026 12:35
 c0c56d49-0f37-4235-8955-ac38ebd02436,cheesy.estate,available,14.99,50.99,high,low,6,name.com,,,23/09/2026 11:13
@@ -636,6 +649,7 @@ f436d1c3-d1d7-473c-bad4-354ea291a23f,handle.estate,available,6.98,52.98,high,low
 adf2948d-8c53-4172-8b76-3dc6028d7a49,mosaic.estate,available,6.98,52.98,high,medium,6,namecheap,,,25/08/2026 06:45
 0e243624-c207-4491-8df4-24979e31e99e,recluse.estate,available,6.98,52.98,high,low,7,namecheap,,,09/09/2026 11:38
 b73b05d8-a7e5-42b9-b95b-3fa4ec9d9cfb,uphill.estate,available,6.98,52.98,medium,low,6,namecheap,,,
+d03859c3-c209-4658-b597-89921190c10c,quentin.estate,available,6.98,52.98,medium,low,7,namecheap,,,27/09/2026 01:36
 0b0a0b7c-c99b-47cc-a342-58019eda1653,laws.estate,available,14.99,,high,low,4,name.com,,,
 44b4bd78-e38e-4b85-9375-b6696103d9c2,broom.estate,available,15.99,38.99,high,low,5,namesilo,,,24/09/2026 10:47
 19ebeadc-45c4-4c17-a1f7-27a4d6d1974e,ruled.estate,available,14.99,,high,low,5,name.com,,,
@@ -666,7 +680,7 @@ e4d4bb98-9478-47d0-a3e5-b6bdd599b99f,dusts.estate,available,15.99,38.99,low,low,
 27fcb3f1-dc95-4882-87ac-2f55e2421925,corrosive.estate,available,6.98,52.98,medium,low,9,namecheap,,,13/08/2026 02:07
 ac02867a-4a50-4e7a-a5c1-882aa7bfb2c1,extraneous.estate,available,6.98,52.98,medium,low,10,namecheap,,,17/08/2026 19:20
 cd8b6197-4f88-4b2c-b37d-91caefaa54f7,berceuse.estate,available,6.98,52.98,high,low,8,namecheap,,,23/09/2026 09:10
-d7fdf075-c1f1-4458-b557-a4f0b2a9c439,sea.estate,resell,,,high,low,3,"Sav.com, LLC - 16",31/03/2025 15:15,31/03/2027 15:15,
+d7fdf075-c1f1-4458-b557-a4f0b2a9c439,sea.estate,resell,,,high,low,3,Dynadot Inc,02/07/2026 17:00,02/07/2027 17:00,26/09/2026 08:52
 38f12aa3-2a69-446a-93ac-fa3568749ac1,ducky.estate,available,14.99,50.99,high,low,5,name.com,,,13/08/2026 18:23
 12948146-b005-4dab-a87e-1783e0d4341f,thoughtless.estate,available,14.99,,medium,low,11,name.com,,,
 96bb7e86-7e96-483d-8291-e2da797225c8,scandalous.estate,available,6.98,52.98,medium,low,10,namecheap,,,14/08/2026 10:26
@@ -678,20 +692,20 @@ d7fdf075-c1f1-4458-b557-a4f0b2a9c439,sea.estate,resell,,,high,low,3,"Sav.com, LL
 5209f6d4-798c-47a3-96af-0b9632bc9a4f,adaxial.estate,available,6.98,52.98,medium,low,7,namecheap,,,
 80920fd8-6dad-4b40-90bd-6c7c03c43525,junoesque.estate,available,6.98,52.98,medium,low,9,namecheap,,,22/08/2026 14:31
 4e2ba7cb-3fed-4103-a19e-6c5385aac88b,meridional.estate,available,6.98,52.98,medium,low,10,namecheap,,,24/08/2026 20:52
-72f582d1-04f7-4425-942d-8ec1add83ea4,forbes.estate,resell,,,high,low,6,,,,25/09/2026 14:28
+46698f6f-75b6-4149-9eb2-9c4eee7f59fe,sul.estate,available,15.99,38.99,high,low,3,namesilo,,,27/09/2026 10:19
 21f6f1c4-4a9e-4f73-b2ee-88d7cc0e7cee,ventilators.estate,available,15.99,38.99,low,low,11,namesilo,,,18/09/2026 23:26
 e841e4dd-d0db-4473-ae44-6388cd2f8eaa,historical.estate,premium,118.8,118.8,high,low,10,namesilo,,,24/09/2026 10:25
 7424a9f2-4172-4aa0-ae2a-578458b85db8,sport.estate,premium,128.7,128.7,high,medium,5,namecheap,,,25/09/2026 22:38
 367c2135-af67-45a2-852a-0b9d84a4027e,jammed.estate,available,6.98,52.98,medium,low,6,namecheap,,,22/08/2026 12:07
 40d34f2c-5349-4346-b397-e4dc030c8442,perinatal.estate,available,6.98,52.98,high,low,9,namecheap,,,08/09/2026 17:07
-61858cec-a2dd-45fa-8380-f0c6b5ceca92,forever.estate,available,14.99,,high,medium,7,name.com,,,
+61858cec-a2dd-45fa-8380-f0c6b5ceca92,forever.estate,resell,14.99,,high,medium,7,name.com,,,27/09/2026 02:31
 fd2d030a-e150-4cc5-93c6-7f14b8a2f23a,publicity.estate,available,14.99,,high,low,9,name.com,,,
 5299633e-ecc4-45e2-a088-7519cc8c6bbb,jeweled.estate,available,6.98,52.98,high,low,7,namecheap,,,18/08/2026 21:10
 95b8ab1d-d84a-44a8-83d1-ba2cbde7b711,fours.estate,available,15.99,38.99,high,low,5,namesilo,,,20/09/2026 08:08
 d37b1f17-3053-4a6f-b8bf-6755bc2ff513,archduke.estate,available,15.99,38.99,medium,low,8,namesilo,,,20/09/2026 01:54
 a7b8f86d-1ba6-450c-8d63-cdbe3d74dc9f,crescent.estate,available,6.98,52.98,high,low,8,namecheap,,,13/08/2026 06:14
 7e7fe178-0a74-47a9-9e85-8ed99603c698,resolution.estate,available,14.99,,high,low,10,name.com,,,
-2591e59e-3836-4519-8b29-989ab368e2da,treasure.estate,available,14.99,,high,low,8,name.com,,,
+2591e59e-3836-4519-8b29-989ab368e2da,treasure.estate,available,15.99,38.99,high,low,8,namesilo,,,27/09/2026 06:38
 db3acc54-016b-44cf-bcfc-61cf57d06974,ravenous.estate,available,6.98,52.98,medium,low,8,namecheap,,,15/08/2026 06:13
 5e996c16-ec16-4946-8d6a-c5d7a7e52656,item.estate,available,14.99,,high,low,4,name.com,,,
 a8bb22ec-0529-45b8-99a9-3482e86d3b2e,debater.estate,available,6.98,52.98,medium,low,7,namecheap,,,20/09/2026 04:45
@@ -703,11 +717,14 @@ ab29d4e4-8111-4a49-ac73-c8588950b13b,chuck.estate,available,6.98,52.98,high,low,
 ae7dd844-7edb-4c5f-876c-fffbd349c541,glace.estate,available,6.98,52.98,medium,low,5,namecheap,,,13/08/2026 09:46
 ae1b6940-0855-4241-addb-081cb90a47d2,nigerian.estate,available,6.98,52.98,high,low,8,namecheap,,,03/09/2026 17:12
 2a6c059a-30fe-41a1-b3e8-ecc868a04ff7,cauterize.estate,available,6.98,52.98,medium,low,9,namecheap,,,11/08/2026 14:34
+09708427-8eae-4dd5-bf09-e379df5eec08,alain.estate,available,6.98,52.98,high,low,5,namecheap,,,27/09/2026 07:38
 ebdbd1f6-170b-4f97-b257-8986af9426e0,baroque.estate,available,6.98,52.98,high,low,7,namecheap,,,08/08/2026 20:26
 2c8db22f-f61e-4305-9ace-587e9eff17c8,disgrace.estate,available,14.99,,high,low,8,name.com,,,
 bd669b65-4ae5-4ef0-a8b1-828490e151a7,unbowed.estate,available,6.98,52.98,medium,low,7,namecheap,,,12/09/2026 02:27
+18646b0b-7dc9-4798-9eba-e2616c67c2b5,upton.estate,available,6.41,31.25,medium,low,5,spaceship,,,27/09/2026 11:29
 e7289773-18a4-49bc-b967-0468000cc7fb,binaural.estate,available,6.98,52.98,medium,low,8,namecheap,,,09/08/2026 18:40
 f87a59f9-dadf-4cc1-9d32-970af068fa8f,offering.estate,available,15.99,38.99,high,low,8,namesilo,,,25/09/2026 09:37
+4ef070f7-f47d-4549-b596-aa57471ae564,sidney.estate,available,6.98,52.98,high,low,6,namecheap,,,27/09/2026 05:44
 c263767e-6103-49e1-af18-e95d2059497b,slug.estate,available,15.99,38.99,high,low,4,namesilo,,,23/09/2026 13:52
 8ba608af-1d49-43cd-b25a-b3c1427068d9,cross.estate,available,15.99,38.99,high,low,5,namesilo,,,22/09/2026 16:13
 b1e4c363-bef3-4c5b-b757-6c90c633289d,retral.estate,available,6.98,52.98,medium,low,6,namecheap,,,09/09/2026 15:44
@@ -719,6 +736,7 @@ ab9ff49e-0668-4586-a9fe-415a7a7ef931,academy.estate,available,14.99,50.99,high,l
 8c45f76c-1532-4fa3-a467-6c2326bc4e88,reasonless.estate,available,6.98,52.98,medium,low,10,namecheap,,,11/08/2026 22:42
 c6fcc9db-b9f4-468c-85a6-98fde43aefb0,disaster.estate,available,6.98,52.98,high,low,8,namecheap,,,24/09/2026 11:38
 f2863234-f482-4122-ad7c-232a5525d638,agog.estate,available,6.98,52.98,high,low,4,namecheap,,,
+2401f855-9200-4d8c-9d53-b8ebc7543faf,tha.estate,available,15.99,38.99,medium,low,3,namesilo,,,27/09/2026 06:52
 a7f40747-16d9-4d2c-b235-43c2b1baa78c,corridor.estate,available,14.99,,high,low,8,name.com,,,
 4cbae3ba-aeb3-4513-94e7-72ee18f36f0c,thinks.estate,available,15.99,38.99,high,low,6,namesilo,,,18/09/2026 15:23
 9e9a452b-69cb-4e81-b816-fa02adbb7afc,pedestrian.estate,available,6.98,52.98,high,low,10,namecheap,,,08/09/2026 12:28
@@ -765,6 +783,7 @@ d475dee0-1085-4418-9d79-74e6e371bc0c,fusty.estate,available,6.98,52.98,low,low,5
 dc7a034c-50e1-4499-9816-772c1edb53db,perceiving.estate,available,14.99,,high,low,10,name.com,,,
 d5816cab-f4dc-4e21-873e-aa56f56c97ee,freaky.estate,available,6.98,52.98,high,low,6,namecheap,,,10/08/2026 10:01
 7e09479a-377f-4144-871c-cfaecc5ef87f,unsalted.estate,available,6.98,52.98,medium,low,8,namecheap,,,12/09/2026 18:45
+5ff1871f-6f1c-4699-8196-8674d22aef6c,population.estate,available,6.98,52.98,high,low,10,namecheap,,,27/09/2026 05:04
 1006d74f-da45-44bd-897d-2a8724985a7f,snickers.estate,available,6.98,52.98,high,low,8,namecheap,,,18/09/2026 04:34
 9e9b7017-c17d-40f9-9565-bbfe310fb3a7,abrachia.estate,available,15.99,38.99,medium,low,8,namesilo,,,16/09/2026 16:47
 68fb46b5-317b-4458-880c-fe8a33b35bda,indisposed.estate,available,6.98,52.98,medium,low,10,namecheap,,,
@@ -785,7 +804,7 @@ ab136067-bf38-4087-be68-7bfba073e00e,yea.estate,available,15.99,38.99,high,low,3
 acb5e000-ac94-4d88-b959-c62ec9027fe5,xii.estate,available,6.98,52.98,high,low,3,namecheap,,,21/09/2026 11:25
 6138fed4-d0d5-43b6-b5d0-5da0bcd48c17,witloof.estate,available,15.99,38.99,medium,low,7,namesilo,,,23/09/2026 05:01
 87535786-b0c0-4ac5-a0c8-6dd9db8cc3a4,sideboard.estate,available,6.98,52.98,high,low,9,namecheap,,,24/09/2026 10:55
-0b3d292d-e6c9-444c-96d4-7c774f4f305b,iconic.estate,resell,,,high,medium,6,"GoDaddy.com, LLC",20/05/2024 22:50,20/05/2027 22:50,25/09/2026 07:12
+0b3d292d-e6c9-444c-96d4-7c774f4f305b,iconic.estate,resell,,,high,medium,6,"GoDaddy.com, LLC",20/05/2024 22:50,20/05/2027 22:50,26/09/2026 06:47
 5a0c99e6-2584-4917-9239-45bd877cdfcf,multiplied.estate,available,6.98,52.98,high,low,10,namecheap,,,03/09/2026 10:54
 d69022df-e5da-4e25-9cae-5ada6bdb60dc,immediate.estate,available,15.99,38.99,high,low,9,namesilo,,,23/09/2026 22:04
 44d707f4-0ba6-484f-bca9-e09975d453ce,woolf.estate,available,15.99,38.99,medium,low,5,namesilo,,,17/09/2026 07:19
@@ -843,6 +862,7 @@ d2abcccd-6d95-4df6-bb20-2aaa52d76638,celebrated.estate,available,6.98,52.98,high
 e4313dd0-3fec-4f5d-a328-151bb6fc54f5,dictionary.estate,available,15.99,38.99,high,low,10,namesilo,,,24/09/2026 22:14
 f1fb5d31-06c6-4979-a1e6-96116ef83870,french.estate,available,6.98,52.98,high,low,6,namecheap,,,24/09/2026 21:41
 bfdd7eb5-f70a-4a2d-beb0-16833492b37e,clovers.estate,available,15.99,38.99,medium,low,7,namesilo,,,21/09/2026 06:52
+7938f339-2d30-421b-9c1e-2f8cd45133c4,fordham.estate,available,6.98,52.98,medium,low,7,namecheap,,,27/09/2026 07:54
 0a52fb15-7ecd-4a0d-b864-3cf6a49f02a8,parched.estate,available,6.98,52.98,medium,low,7,namecheap,,,
 39194e13-3814-434f-a37e-303dd9800ff4,sideline.estate,available,15.99,38.99,high,low,8,namesilo,,,21/09/2026 09:42
 ff38a78a-2bbc-4e74-bedc-8eeef5210600,manchurian.estate,available,6.98,52.98,high,low,10,namecheap,,,24/08/2026 14:34
@@ -864,6 +884,7 @@ d0df4853-8ac8-4408-82c1-da21e1e8d13c,invigorate.estate,available,15.99,38.99,hig
 bd00f613-3f99-43b8-8858-d21dbb694934,venture.estate,available,15.99,38.99,high,low,7,namesilo,,,25/09/2026 03:21
 4b862fbd-74ba-492c-a682-1dc36cdbb13d,factorial.estate,available,6.98,52.98,high,low,9,namecheap,,,17/08/2026 20:29
 115d1258-d4e6-4614-abf2-d8f104575d76,honegger.estate,available,15.99,38.99,high,low,8,namesilo,,,20/09/2026 10:55
+31d51355-826f-4dd5-9047-e25f3d0a4407,jeremy.estate,available,6.98,52.98,high,low,6,namecheap,,,27/09/2026 10:46
 8e617834-11e5-476f-9bdf-5e10c69a4c57,loth.estate,available,6.98,52.98,medium,low,4,namecheap,,,24/08/2026 08:19
 284651df-ac17-4f0e-85a6-6ba6a5b18522,dorian.estate,available,6.98,52.98,high,low,6,namecheap,,,14/08/2026 16:11
 776f0462-b2f3-40e5-9ef5-2352ac0f560a,emboss.estate,available,6.98,52.98,high,low,6,namecheap,,,10/08/2026 20:42
@@ -882,9 +903,11 @@ a315ff83-42e7-4408-b11a-4e439a777b36,undiluted.estate,available,6.98,52.98,mediu
 09049f6c-1b29-4045-bc2c-440abf9dec43,weighty.estate,available,6.98,52.98,medium,low,7,namecheap,,,12/08/2026 15:37
 26396a7b-1ab7-4724-b84d-4465517e4fa9,reverend.estate,available,6.98,52.98,high,low,8,namecheap,,,09/09/2026 16:06
 95fb6f50-d75c-43af-a8e5-60ff7e657e03,armoured.estate,available,6.98,52.98,high,low,8,namecheap,,,06/08/2026 20:10
+23e58c1f-e393-4da0-9809-761500ab25a6,jarvis.estate,available,15.99,38.99,high,medium,6,namesilo,,,27/09/2026 01:43
 7531d4ee-47e0-4472-98ec-9679e08ed72f,uncle.estate,available,14.99,,high,low,5,name.com,,,
 20d7fe3f-1002-423a-8ed5-b5e21551afc1,lunchtime.estate,available,14.99,,high,low,10,name.com,,,
 83beaf97-f908-40cb-97ec-827287f89991,cagy.estate,available,6.98,52.98,medium,low,4,namecheap,,,11/08/2026 13:21
+b810a00c-4a4d-409d-ada0-04088203908b,rifle.estate,available,15.99,38.99,high,low,5,namesilo,,,27/09/2026 04:01
 207dcb41-e74d-4cda-9d62-bffde772e682,lighted.estate,available,6.98,52.98,high,low,7,namecheap,,,21/08/2026 20:09
 f878dfb1-e0bc-4f9a-925f-e3d6a12e2c63,danseuse.estate,available,15.99,38.99,medium,low,8,namesilo,,,21/09/2026 22:50
 11bb9977-bc2a-42ec-ba83-0e6dba1ad428,pumpkin.estate,available,15.99,38.99,high,low,7,namesilo,,,21/09/2026 08:26
@@ -915,15 +938,18 @@ dbf66540-ded8-47ea-92b5-293af44c8ce6,latin.estate,available,6.98,52.98,high,low,
 d3b1cd04-8ae8-40d6-9482-06447a25cd25,aiai.estate,available,6.98,52.98,high,low,4,namecheap,,,17/09/2026 20:43
 8cf5ad1d-33db-4edb-a110-b81690acc75a,thanksgiving.estate,available,15.99,38.99,high,low,12,namesilo,,,16/09/2026 10:18
 f993fcdc-c18f-4b6a-abe8-3fc7c634a668,fervent.estate,available,6.98,52.98,high,low,7,namecheap,,,06/08/2026 16:14
+0763f784-5249-44aa-944a-9c0c38f52a1d,harcourt.estate,available,15.99,38.99,medium,low,8,namesilo,,,27/09/2026 08:10
 1bf7dd6c-f60f-478f-a90a-0609baae61ea,apodeme.estate,available,6.98,52.98,medium,low,7,namecheap,,,19/09/2026 18:17
 234f3e6c-584a-488e-a4b1-7aa5ca6e15c2,strengthen.estate,available,14.99,,high,low,10,name.com,,,
 358e2d2a-3bb8-4023-a1e2-2c389b7010c1,weeny.estate,available,6.98,52.98,high,low,5,namecheap,,,10/08/2026 08:22
 6ffbfbf8-f767-4e76-8385-30c4264a4d91,liaise.estate,available,6.98,52.98,high,low,6,namecheap,,,22/08/2026 08:15
 864b1c7c-81d8-4221-8af3-aa868173f99e,display.estate,available,15.99,38.99,high,low,7,namesilo,,,25/09/2026 04:58
+98de3c89-96c7-4fa5-98c4-8a2cd54b7838,darius.estate,available,6.98,52.98,high,low,6,namecheap,,,27/09/2026 07:28
 d2d7b36d-5609-4d8b-ad87-6c9f5d5fa22c,devise.estate,available,14.99,,high,low,6,name.com,,,
 6e4759f0-d6c9-4ef8-b2cf-d9ae92eda7d6,appears.estate,available,6.98,52.98,medium,low,7,namecheap,,,25/09/2026 20:18
 25564aec-2450-4740-a817-1248d7783e27,uracil.estate,available,6.98,52.98,medium,low,6,namecheap,,,11/09/2026 22:36
 55eb4888-0fdf-4c56-9394-ceaba5448e51,mated.estate,available,6.98,52.98,medium,low,5,namecheap,,,24/08/2026 17:10
+34eea507-3f75-427f-8dbf-32a41d0cdb57,fears.estate,available,6.98,52.98,medium,low,5,namecheap,,,27/09/2026 08:58
 884e4217-2998-4dc2-b34e-189fad36181d,allentown.estate,available,15.99,38.99,high,low,9,namesilo,,,18/09/2026 10:52
 8ca4f78a-84d2-4289-8547-eef66566118d,comical.estate,available,6.98,52.98,high,low,7,namecheap,,,23/09/2026 15:19
 cf5d8435-2595-44cd-9253-4b19dea8f43f,accomplice.estate,available,15.99,38.99,high,low,10,namesilo,,,16/09/2026 22:50
@@ -937,12 +963,13 @@ e6561b54-3fec-4740-91cc-c8e648a07ef9,triad.estate,available,6.98,52.98,high,low,
 078d4f4f-55d0-400c-b084-4015f3a83466,upmost.estate,available,6.98,52.98,medium,low,6,namecheap,,,11/09/2026 17:50
 66458418-552b-4b42-a0b1-1a83578cda7a,skillfully.estate,available,6.98,52.98,high,low,10,namecheap,,,16/09/2026 02:07
 e68fc292-96d4-4876-a53b-08044a9a65f8,foes.estate,available,6.98,52.98,low,low,4,namecheap,,,18/09/2026 06:38
+5e8f2499-577d-479a-8752-11775d277208,baylor.estate,available,6.98,52.98,medium,low,6,namecheap,,,27/09/2026 01:57
 8b412f5e-654c-4da3-935d-64cd8a5d6aba,courtly.estate,available,6.98,52.98,high,low,7,namecheap,,,13/08/2026 03:50
 70176a86-626b-45b4-8531-6f34d6b44745,gip.estate,available,6.98,52.98,medium,low,3,namecheap,,,14/09/2026 08:07
 8f0ccd9d-b7ff-4177-b99b-5506e2744817,unsociable.estate,available,6.98,52.98,medium,low,10,namecheap,,,12/09/2026 20:09
 1c869466-f206-4b41-909a-35d3a57c3fa0,omnivorous.estate,available,6.98,52.98,medium,low,10,namecheap,,,04/09/2026 13:56
 f14e7255-0f09-4753-b31a-b89f2328f231,tasking.estate,available,14.99,,high,low,7,name.com,,,
-fdcc44a4-19cc-41e8-8c5c-c40d52cd68e3,reality.estate,resell,,,high,low,7,,,,26/09/2026 00:09
+fdcc44a4-19cc-41e8-8c5c-c40d52cd68e3,reality.estate,resell,,,high,low,7,"Global Domains International, Inc. DBA DomainCostClub.com",30/04/2026 15:15,30/04/2027 15:15,26/09/2026 08:31
 0b7a0866-14d4-4243-95c0-41662eb3bf12,armorer.estate,available,6.98,52.98,medium,low,7,namecheap,,,20/09/2026 07:29
 d21e8d8b-3114-4b53-9510-1c2deefa76d3,conk.estate,available,6.98,52.98,medium,low,4,namecheap,,,17/08/2026 21:08
 74c31836-966e-4022-94a7-44e7b96ae970,sacred.estate,available,15.99,38.99,high,low,6,namesilo,,,24/09/2026 23:19
@@ -972,30 +999,3 @@ a53d091d-953e-4e87-b7d2-949adccf281c,barbette.estate,available,15.99,38.99,mediu
 31fec801-c8e5-4a8e-bf77-5c8e605e881d,tanzanian.estate,available,6.98,52.98,medium,low,9,namecheap,,,11/09/2026 08:09
 38602016-3d48-4424-adfc-f4e03f4655e6,breastless.estate,available,6.98,52.98,medium,low,10,namecheap,,,11/08/2026 03:14
 72d67107-54b8-40d7-b5bb-03b9771ea2a9,libber.estate,available,6.98,52.98,medium,low,6,namecheap,,,18/08/2026 01:03
-08c2564c-afcc-4c9f-90b1-7decf63c76a6,tyres.estate,available,6.98,52.98,medium,low,5,namecheap,,,20/09/2026 19:00
-7136066e-5426-49db-9320-e23e302ef1b7,ein.estate,available,15.99,38.99,high,low,3,namesilo,,,26/09/2026 03:08
-220f871d-5b0e-433f-9bb4-2c40c55addbf,interest.estate,available,6.98,52.98,high,low,8,namecheap,,,08/09/2026 14:02
-1b81a0be-c982-4af8-895c-8591419c9d39,clementine.estate,available,15.99,38.99,high,low,10,namesilo,,,24/09/2026 15:33
-076d801e-5984-4051-9066-be25c23db725,cupid.estate,available,15.99,38.99,high,low,5,namesilo,,,18/09/2026 22:35
-f6eeb755-70a9-4f45-938a-a747e3472aa4,russell.estate,available,15.99,38.99,high,low,7,namesilo,,,16/09/2026 13:01
-c35273f3-ea2c-4a69-99bd-9a455b14197b,episcopal.estate,available,6.98,52.98,high,low,9,namecheap,,,17/08/2026 11:09
-387cb522-29b2-467e-8d96-6d284d9af882,anointing.estate,available,6.98,52.98,high,low,9,namecheap,,,19/09/2026 11:19
-ddf56eae-b100-4f55-a7af-68faf6ad7d8a,olefin.estate,available,15.99,38.99,medium,low,6,namesilo,,,18/09/2026 08:30
-e176665b-c61a-43cd-a581-f0eeb87546a3,beefeater.estate,available,15.99,38.99,medium,low,9,namesilo,,,23/09/2026 01:09
-9bfaec69-be38-40b2-8201-5d2a5fb68007,ferdinand.estate,available,6.98,52.98,high,low,9,namecheap,,,25/09/2026 05:57
-ca647cbd-4a9d-48b3-8b2c-22d2ce61be68,unsaved.estate,available,6.98,52.98,medium,low,7,namecheap,,,12/09/2026 17:57
-94e4b966-5cab-453f-88ab-c4d95c21bb60,drums.estate,available,15.99,38.99,medium,low,5,namesilo,,,18/09/2026 11:40
-45e56027-55b6-4617-9cc2-a60afe26b28b,althaea.estate,available,6.98,52.98,medium,low,7,namecheap,,,18/09/2026 14:53
-a0371b44-1d94-4bc3-b7b1-5d6fdd76ca18,clarifying.estate,available,6.98,52.98,high,low,10,namecheap,,,12/08/2026 09:37
-1dea1d12-5e64-4a11-b778-3af395bcd052,clients.estate,available,6.98,52.98,high,low,7,namecheap,,,19/09/2026 19:21
-9f49e4ec-dd4a-4434-ad09-c5c51c779f41,places.estate,resell,,,high,low,6,Dynadot Inc,13/05/2026 17:00,13/05/2027 17:00,
-e7f58aa0-7c8b-43f7-96a3-ac20b7d86f66,directive.estate,available,6.98,52.98,high,low,9,namecheap,,,14/08/2026 08:48
-7df37809-bec7-4785-9d1a-8f43efa8e32a,subsequent.estate,available,6.98,52.98,high,low,10,namecheap,,,11/09/2026 00:44
-11681aba-ab08-445d-ba81-c5ab794d94d0,pendent.estate,available,6.98,52.98,medium,low,7,namecheap,,,08/09/2026 14:07
-dba041ce-7ba3-4754-89ad-0bf36e2a6632,populations.estate,available,14.99,,medium,low,11,name.com,,,18/09/2026 17:58
-01bc3e31-13e0-4786-b536-2ce9d27ae6a2,drag.estate,available,15.99,38.99,high,low,4,namesilo,,,25/09/2026 22:05
-b65d494a-b617-4625-9d5c-a8e2fa09ca91,nose.estate,available,14.99,,high,low,4,name.com,,,
-96fdde15-9431-4769-ab2e-3187e2b83b7d,brisant.estate,available,6.98,52.98,medium,low,7,namecheap,,,11/08/2026 04:27
-e18c0c60-1dbd-492e-9c92-67514a5b8a5c,bern.estate,available,14.99,,high,low,4,name.com,,,
-65abf2ab-9c20-4d30-a8f6-484cf354738e,threepenny.estate,available,6.98,52.98,high,low,10,namecheap,,,10/09/2026 09:08
-a5d674a3-4b1f-4dce-ae53-46f09086e50f,sexiness.estate,available,15.99,38.99,high,low,8,namesilo,,,18/09/2026 16:14
